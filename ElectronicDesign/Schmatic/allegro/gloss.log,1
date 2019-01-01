@@ -1,0 +1,427 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : FPMEMORY.brd                                  )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Sat Oct 20 03:11:40 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Via Eliminate glossing in progress.
+Started on Sat Oct 20 03:11:40 2018
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net N05919 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02072 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH4 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH5 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+Warning: cline at (-325.26, -315.26) forms loop
+
+Eliminations on net TXD :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44841 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VDD33 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N05883 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH9 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45143 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45127 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44913 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH5 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH7 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N03024 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02980 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:11:40 2018
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 36, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 36,  Total Eliminations = 0,  0 % Eliminatons.
+
+There were 1 warnings reported in logfile
+
+
+
+Via Eliminate glossing in progress.
+Started on Sat Oct 20 03:11:40 2018
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net N05919 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02072 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH4 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH5 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+Warning: cline at (-325.26, -315.26) forms loop
+
+Eliminations on net TXD :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44841 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VDD33 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N05883 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH9 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45143 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45127 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44913 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH5 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH7 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N03024 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02980 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:11:40 2018
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 36, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 36,  Total Eliminations = 0,  0 % Eliminatons.
+
+There were 1 warnings reported in logfile
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 03:11:40 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (-101.81,-102.07).
+
+Glossing attempt unsuccessful. Active pad is at (324.65,436.93).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 1
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:11:40 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 10
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+
+There were 2 errors reported in logfile
+
+
+
+Line Smooth glossing in progress.
+Started on Sat Oct 20 03:11:40 2018
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.01.
+
+ Maximum 45 limit is -0.01.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:11:40 2018
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Line Centering Between Pins glossing in progress.
+Started on Sat Oct 20 03:11:40 2018
+
+Minimum Move Size 2.00.
+Line spacing MINIMUM
+Pad Tolerance 100.00.
+Corner type 45
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:11:40 2018
+
+
+
+Line Center Between Pins Stats
+
+Number of Glossing Attempts                   : 242
+Number of Actual Glossings                    : 11
+Number of Glossings Aborted by DRC violations : 9
+Number of Glossings Aborted by No-Gloss nets  : 0
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 03:11:40 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing was successful:  VIA at (341.55,-255.75) defined by pad  VIA16D8
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing was successful:  VIA at (-517.56,63.95) defined by pad  VIA16D8
+
+Glossing was successful:  VIA at (236.43,320.27) defined by pad  VIA16D8
+
+Glossing was successful:  SYMBOL PIN at (75.00,113.70) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (125.00,-216.26) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (125.00,-216.26) defined by pad  SMD160_060R
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (-101.81,-102.07).
+
+Glossing attempt unsuccessful. Active pad is at (324.65,436.93).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing was successful:  SYMBOL PIN at (420.00,282.63) defined by pad  SMD145_115R
+
+Glossing was successful:  VIA at (-435.00,-55.00) defined by pad  VIA16D8
+
+Glossing was successful:  SYMBOL PIN at (-545.00,434.21) defined by pad  THP180_100R
+
+Glossing was successful:  SYMBOL PIN at (-430.43,103.52) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (-359.57,-113.96) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (-344.65,336.93) defined by pad  SMD200_090R
+
+Glossing was successful:  SYMBOL PIN at (-359.57,103.52) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (75.00,-3.66) defined by pad  SMD160_060R
+
+Glossing was successful:  VIA at (-125.00,-58.35) defined by pad  VIA16D8
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing was successful:  SYMBOL PIN at (-125.00,-216.26) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (420.00,-32.97) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing was successful:  SYMBOL PIN at (125.00,326.30) defined by pad  SMD160_060R
+
+Glossing was successful:  VIA at (467.55,-322.76) defined by pad  VIA16D8
+
+Glossing was successful:  VIA at (242.00,-424.41) defined by pad  VIA16D8
+
+Glossing was successful:  VIA at (-175.00,67.20) defined by pad  VIA16D8
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+Glossing was successful:  SYMBOL PIN at (-250.43,455.00) defined by pad  SMD145_115R
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (-101.81,-102.07).
+
+Glossing attempt unsuccessful. Active pad is at (324.65,436.93).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:11:40 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 42
+Number of Actual Glossings                    : 22
+Number of Glossings Aborted by DRC violations : 0
+
+There were 4 errors reported in logfile
+Glossing Corners to Arcs initiated on Sat Oct 20 03:11:40 2018
+
+Maximum Radius = 5.00.
+Minimum Radius = 2.00.
+Number of Executions = 1
+
+Corners to Arcs Stats
+
+
+Number of Glossing Attempts                   : 248
+Number of Actual Glossings                    : 247
+Number of Failed Glossing Attempts: 1
+Number of by No-Gloss nets  : 0
+There were 247 Corners Converted to Arcs.
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:11:40 2018
+
+
+Glossing Corners to Arcs finished.
+
+
+WARNING: Glossing operations may leave fillets out of date.
+
+
+Glossing complete.

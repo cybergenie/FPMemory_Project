@@ -1,0 +1,1067 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2010 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Fri Oct 05 14:32:54 2018
+# 
+# Allegro PCB Router v17-2-50 made 2017/01/16 at 14:16:53
+# Running on: lee-pc, OS Version: WindowsNT 6.2.9200, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Batch File Name: pasde.do
+# Did File Name: E:/Project/FPMemory/PCB/lib/ColorView/specctra.did
+# Current time = Fri Oct 05 14:32:55 2018
+# PCB E:/Project/FPMemory/PCB/lib/ColorView
+# Master Unit set up as: MIL 1000
+# PCB Limits xlo=-671.2600 ylo=-562.9900 xhi=671.2600 yhi=562.9900
+# Total 31 Images Consolidated.
+# Via VIA z=1, 2 xlo=-12.0000 ylo=-12.0000 xhi= 12.0000 yhi= 12.0000
+# Via VIA16D8 z=1, 2 xlo= -8.0000 ylo= -8.0000 xhi=  8.0000 yhi=  8.0000
+# 
+#    VIA     TOP   BOTTOM 
+# 
+#    TOP  -------  VIA16D8
+# BOTTOM  VIA16D8  -------
+# 
+# <<WARNING:>> Potential non fixed positive shape alignment with the host CAD system exists.
+#              Allegro PCB Router does not perform any operations to remove or identify slivers and isolations.
+#              If the host CAD system performs such an operation, the user may experience unrouted
+#              or DRC alignment issues.
+#              The user must perform final unrouted/DRC validation within the host CAD system.
+# Wires Processed 200, Vias Processed 50
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 37, Images Processed 44, Padstacks Processed 9
+# Nets Processed 23, Net Terminals 196
+# PCB Area=1249307.738  EIC=10  Area/EIC=124930.774  SMDs=28
+# Total Pin Count: 140
+# Signal Connections Created 1
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 23 Connections 94 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 48, at vias 22 Total Vias 50
+# Percent Connected    0.00
+# Manhattan Length 33670.4100 Horizontal 19936.4040 Vertical 13734.0060
+# Routed Length 34530.7491 Horizontal 20746.4000 Vertical 16193.3900
+# Ratio Actual / Manhattan   1.0256
+# Unconnected Length 589.0800 Horizontal 420.0000 Vertical 169.0800
+# Total Conflicts: 885 (Cross: 0, Clear: 885, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Loading Do File pasde.do ...
+# Loading Do File E:/Project/FPMemory/PCB/lib/ColorView\FPMemory_rules.do ...
+# Colormap Written to File _notify.std
+# Enter command <# Loading Do File C:/Users/Lee/AppData/Local/Temp/#Taaaacg08108.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+route 25 1
+# Current time = Fri Oct 05 14:33:03 2018
+# 
+#    VIA     TOP   BOTTOM 
+# 
+#    TOP  -------  VIA16D8
+# BOTTOM  VIA16D8  -------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 23 Connections 94 Unroutes 1
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 48, at vias 22 Total Vias 50
+# Percent Connected    0.00
+# Manhattan Length 33670.4100 Horizontal 19936.4040 Vertical 13734.0060
+# Routed Length 34530.7491 Horizontal 20746.4000 Vertical 16193.3900
+# Ratio Actual / Manhattan   1.0256
+# Unconnected Length 589.0800 Horizontal 420.0000 Vertical 169.0800
+# Start Route Pass 1 of 25
+# Routing 170 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 5 bend points have been removed.
+# Total Conflicts: 800 (Cross: 11, Clear: 789, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 136 Successes 49 Failures 87 Vias 52
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Start Route Pass 2 of 25
+# Routing 180 wires.
+# Total Conflicts: 792 (Cross: 14, Clear: 778, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 138 Successes 54 Failures 84 Vias 55
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Conflict Reduction  0.0100
+# End Pass 2 of 25
+# Start Route Pass 3 of 25
+# Routing 199 wires.
+# Total Conflicts: 785 (Cross: 12, Clear: 773, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 147 Successes 61 Failures 86 Vias 55
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.0088
+# End Pass 3 of 25
+# Start Route Pass 4 of 25
+# Routing 198 wires.
+# Total Conflicts: 776 (Cross: 10, Clear: 766, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 146 Successes 61 Failures 85 Vias 57
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# Conflict Reduction  0.0115
+# End Pass 4 of 25
+# Start Route Pass 5 of 25
+# Routing 202 wires.
+# 6 bend points have been removed.
+# 0 bend points have been removed.
+# 5 bend points have been removed.
+# Total Conflicts: 768 (Cross: 10, Clear: 758, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 149 Successes 65 Failures 84 Vias 56
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.0103
+# End Pass 5 of 25
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Start Route Pass 6 of 25
+# Routing 168 wires.
+# 4 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 275 (Cross: 14, Clear: 261, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 128 Successes 51 Failures 77 Vias 34
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 6 of 25
+# Start Route Pass 7 of 25
+# Routing 128 wires.
+# 3 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 293 (Cross: 19, Clear: 274, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 116 Successes 48 Failures 68 Vias 36
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 7 of 25
+# Start Route Pass 8 of 25
+# Routing 134 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 276 (Cross: 15, Clear: 261, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 23
+# Attempts 122 Successes 51 Failures 71 Vias 35
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 8 of 25
+# Start Route Pass 9 of 25
+# Routing 124 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 297 (Cross: 24, Clear: 273, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 22
+# Attempts 114 Successes 46 Failures 68 Vias 38
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 25
+# Start Route Pass 10 of 25
+# Routing 137 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 284 (Cross: 21, Clear: 263, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 22
+# Attempts 121 Successes 49 Failures 72 Vias 38
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 10 of 25
+# Start Route Pass 11 of 25
+# Routing 131 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 249 (Cross: 19, Clear: 230, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 25
+# Attempts 104 Successes 50 Failures 54 Vias 38
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 11 of 25
+# Start Route Pass 12 of 25
+# Routing 139 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 220 (Cross: 21, Clear: 199, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 108 Successes 51 Failures 57 Vias 37
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 12 of 25
+# Start Route Pass 13 of 25
+# Routing 131 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 232 (Cross: 19, Clear: 213, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 99 Successes 45 Failures 54 Vias 37
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 13 of 25
+# Start Route Pass 14 of 25
+# Routing 139 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 259 (Cross: 21, Clear: 238, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 107 Successes 50 Failures 57 Vias 37
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 25
+# Start Route Pass 15 of 25
+# Routing 131 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 223 (Cross: 19, Clear: 204, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 104 Successes 47 Failures 57 Vias 37
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 15 of 25
+# Start Route Pass 16 of 25
+# Routing 138 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 236 (Cross: 20, Clear: 216, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 111 Successes 53 Failures 58 Vias 38
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 16 of 25
+# Start Route Pass 17 of 25
+# Routing 131 wires.
+# Total Conflicts: 239 (Cross: 21, Clear: 218, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 99 Successes 44 Failures 55 Vias 37
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 25
+# Start Route Pass 18 of 25
+# Routing 141 wires.
+# Total Conflicts: 223 (Cross: 21, Clear: 202, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 107 Successes 51 Failures 56 Vias 37
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 18 of 25
+# Start Route Pass 19 of 25
+# Routing 133 wires.
+# Total Conflicts: 225 (Cross: 25, Clear: 200, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 100 Successes 45 Failures 55 Vias 35
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 19 of 25
+# Start Route Pass 20 of 25
+# Routing 139 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 231 (Cross: 19, Clear: 212, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 124 Successes 50 Failures 74 Vias 37
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 20 of 25
+# Start Route Pass 21 of 25
+# Routing 132 wires.
+# 5 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 236 (Cross: 21, Clear: 215, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 26
+# Attempts 123 Successes 49 Failures 74 Vias 37
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 21 of 25
+# Start Route Pass 22 of 25
+# Routing 142 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 272 (Cross: 13, Clear: 259, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 27
+# Attempts 127 Successes 55 Failures 72 Vias 33
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 22 of 25
+# Start Route Pass 23 of 25
+# Routing 128 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 207 (Cross: 13, Clear: 194, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 28
+# Attempts 119 Successes 45 Failures 74 Vias 32
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 23 of 25
+# Start Route Pass 24 of 25
+# Routing 132 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 206 (Cross: 12, Clear: 194, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 28
+# Attempts 124 Successes 51 Failures 73 Vias 32
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 24 of 25
+# Start Route Pass 25 of 25
+# Routing 122 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Total Conflicts: 207 (Cross: 12, Clear: 195, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 28
+# Attempts 113 Successes 41 Failures 72 Vias 32
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 25 of 25
+# Cpu Time = 0:00:16  Elapsed Time = 0:00:11
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    11|   789|  87|    1|   52|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    14|   778|  84|    1|   55|    0|   0|  1|  0:00:00|  0:00:00|
+# Route    |  3|    12|   773|  86|    1|   55|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|    10|   766|  85|    1|   57|    0|   0|  1|  0:00:01|  0:00:01|
+# Route    |  5|    10|   758|  84|    1|   56|    0|   0|  1|  0:00:00|  0:00:01|
+# Route    |  6|    14|   261|  77|   26|   34|    0|   0| 64|  0:00:00|  0:00:01|
+# Route    |  7|    19|   274|  68|   23|   36|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|    15|   261|  71|   23|   35|    0|   0|  5|  0:00:01|  0:00:03|
+# Route    |  9|    24|   273|  68|   22|   38|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 10|    21|   263|  72|   22|   38|    0|   0|  4|  0:00:01|  0:00:04|
+# Route    | 11|    19|   230|  54|   25|   38|    0|   0| 12|  0:00:01|  0:00:05|
+# Route    | 12|    21|   199|  57|   26|   37|    0|   0| 11|  0:00:00|  0:00:05|
+# Route    | 13|    19|   213|  54|   26|   37|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 14|    21|   238|  57|   26|   37|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 15|    19|   204|  57|   26|   37|    0|   0| 13|  0:00:01|  0:00:07|
+# Route    | 16|    20|   216|  58|   26|   38|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 17|    21|   218|  55|   26|   37|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 18|    21|   202|  56|   26|   37|    0|   0|  6|  0:00:01|  0:00:09|
+# Route    | 19|    25|   200|  55|   26|   35|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 20|    19|   212|  74|   26|   37|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 21|    21|   215|  74|   26|   37|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 22|    13|   259|  72|   27|   33|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 23|    13|   194|  74|   28|   32|    0|   0| 23|  0:00:01|  0:00:11|
+# Route    | 24|    12|   194|  73|   28|   32|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 25|    12|   195|  72|   28|   32|    0|   0|  0|  0:00:00|  0:00:12|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:12
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 23 Connections 94 Unroutes 28
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 47, at vias 22 Total Vias 32
+# Percent Connected    0.00
+# Manhattan Length 37071.3300 Horizontal 21404.0160 Vertical 15667.3140
+# Routed Length 27117.2795 Horizontal 14415.3200 Vertical 13105.8300
+# Ratio Actual / Manhattan   0.7315
+# Unconnected Length 13264.5700 Horizontal 7969.6500 Vertical 5294.9200
+clean 2
+# Current time = Fri Oct 05 14:33:14 2018
+# 
+#    VIA     TOP   BOTTOM 
+# 
+#    TOP  -------  VIA16D8
+# BOTTOM  VIA16D8  -------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 23 Connections 94 Unroutes 28
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 47, at vias 22 Total Vias 32
+# Percent Connected    0.00
+# Manhattan Length 37071.3300 Horizontal 21404.0160 Vertical 15667.3140
+# Routed Length 27117.2795 Horizontal 14415.3200 Vertical 13105.8300
+# Ratio Actual / Manhattan   0.7315
+# Unconnected Length 13264.5700 Horizontal 7969.6500 Vertical 5294.9200
+# Start Clean Pass 1 of 2
+# Routing 152 wires.
+# Total Conflicts: 207 (Cross: 12, Clear: 195, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 28
+# Attempts 143 Successes 46 Failures 97 Vias 32
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 156 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 207 (Cross: 12, Clear: 195, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 28
+# Attempts 141 Successes 45 Failures 96 Vias 32
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    11|   789|  87|    1|   52|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    14|   778|  84|    1|   55|    0|   0|  1|  0:00:00|  0:00:00|
+# Route    |  3|    12|   773|  86|    1|   55|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|    10|   766|  85|    1|   57|    0|   0|  1|  0:00:01|  0:00:01|
+# Route    |  5|    10|   758|  84|    1|   56|    0|   0|  1|  0:00:00|  0:00:01|
+# Route    |  6|    14|   261|  77|   26|   34|    0|   0| 64|  0:00:00|  0:00:01|
+# Route    |  7|    19|   274|  68|   23|   36|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|    15|   261|  71|   23|   35|    0|   0|  5|  0:00:01|  0:00:03|
+# Route    |  9|    24|   273|  68|   22|   38|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 10|    21|   263|  72|   22|   38|    0|   0|  4|  0:00:01|  0:00:04|
+# Route    | 11|    19|   230|  54|   25|   38|    0|   0| 12|  0:00:01|  0:00:05|
+# Route    | 12|    21|   199|  57|   26|   37|    0|   0| 11|  0:00:00|  0:00:05|
+# Route    | 13|    19|   213|  54|   26|   37|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 14|    21|   238|  57|   26|   37|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 15|    19|   204|  57|   26|   37|    0|   0| 13|  0:00:01|  0:00:07|
+# Route    | 16|    20|   216|  58|   26|   38|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 17|    21|   218|  55|   26|   37|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 18|    21|   202|  56|   26|   37|    0|   0|  6|  0:00:01|  0:00:09|
+# Route    | 19|    25|   200|  55|   26|   35|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 20|    19|   212|  74|   26|   37|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 21|    21|   215|  74|   26|   37|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 22|    13|   259|  72|   27|   33|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 23|    13|   194|  74|   28|   32|    0|   0| 23|  0:00:01|  0:00:11|
+# Route    | 24|    12|   194|  73|   28|   32|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 25|    12|   195|  72|   28|   32|    0|   0|  0|  0:00:00|  0:00:12|
+# Clean    | 26|    12|   195|  97|   28|   32|    0|   0|   |  0:00:00|  0:00:12|
+# Clean    | 27|    12|   195|  96|   28|   32|    0|   0|   |  0:00:00|  0:00:12|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:12
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 23 Connections 94 Unroutes 28
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 46, at vias 22 Total Vias 32
+# Percent Connected    0.00
+# Manhattan Length 36801.6100 Horizontal 21341.5280 Vertical 15460.0820
+# Routed Length 27014.3295 Horizontal 14269.6400 Vertical 13148.5600
+# Ratio Actual / Manhattan   0.7341
+# Unconnected Length 13154.2000 Horizontal 7969.6500 Vertical 5184.5500
+miter 4 (style diagonal) (pin) (slant) (tjunction) (bend) (layer TOP BOTTOM)
+# Diagonal wire corners are preferred.
+# Current time = Fri Oct 05 14:33:16 2018
+# 6 bend points have been removed.
+# Convert orthogonal pin exit to diagonal...
+# Convert wire segment to diagonal...
+# Convert orthogonal corner to diagonal...
+# 0 bend points have been removed.
+# Corners changed 77
+# 90 degree wire corners are preferred.
+# Total Conflicts: 207 (Cross: 12, Clear: 195, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 23 Connections 94 Unroutes 28
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 46, at vias 22 Total Vias 32
+# Percent Connected    0.00
+# Manhattan Length 36801.6100 Horizontal 21341.5280 Vertical 15460.0820
+# Routed Length 25610.9848 Horizontal 14349.6400 Vertical 13168.5600
+# Ratio Actual / Manhattan   0.6959
+# Unconnected Length 13154.2000 Horizontal 7969.6500 Vertical 5184.5500
+write routes (changed_only) (reset_changed) C:/Users/Lee/AppData/Local/Temp/#Taaaach08108.tmp
+# Routing Written to File C:/Users/Lee/AppData/Local/Temp/#Taaaach08108.tmp
+# Loading Do File C:/Users/Lee/AppData/Local/Temp/#Taaaacj08108.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+# <<WARNING:>> Unrecognized net +UNUSED_PINS+
+# Net Orphan_net Selected.
+# Net Orphan_net Unfixed.
+# All Selected Wires Unprotected.
+# <<WARNING:>> Protected wire of net Orphan_net was not deleted.
+# All unprotected selected wires were deleted.
+# Current time = Fri Oct 05 14:34:20 2018
+# Total Conflicts: 207 (Cross: 12, Clear: 195, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 23 Connections 94 Unroutes 28
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 46, at vias 22 Total Vias 32
+# Percent Connected    0.00
+# Manhattan Length 36801.6100 Horizontal 21341.5280 Vertical 15460.0820
+# Routed Length 25610.9848 Horizontal 14349.6400 Vertical 13168.5600
+# Ratio Actual / Manhattan   0.6959
+# Unconnected Length 13154.2000 Horizontal 7969.6500 Vertical 5184.5500
+# All Components Unselected.
+# All Nets Unselected.
+# Current time = Fri Oct 05 14:34:20 2018
+# <<WARNING:>> Redundant wire deleted from net Orphan_net
+# <<WARNING:>> 1 redundant wires and vias were deleted
+# Nets Processed 24, Net Terminals 200
+# Signal Connections Created 28
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Total Conflicts: 20 (Cross: 12, Clear: 8, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 24 Connections 94 Unroutes 28
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 46, at vias 23 Total Vias 32
+# Percent Connected   41.49
+# Manhattan Length 38148.5600 Horizontal 22135.0000 Vertical 16013.5600
+# Routed Length 25610.9848 Horizontal 14349.6400 Vertical 13168.5600
+# Ratio Actual / Manhattan   0.6713
+# Unconnected Length 13600.3900 Horizontal 8057.7100 Vertical 5542.6800
+# Net Orphan_net Fixed.
+# Loading Do File C:/Users/Lee/AppData/Local/Temp/#Taaaack08108.tmp ...
+# All Components Unselected.
+# All Nets Unselected.
+set route_diagonal 0
+grid wire 0.010000 (direction x) (offset 0.000000)
+grid wire 0.010000 (direction y) (offset 0.000000)
+grid via 0.010000 (direction x) (offset 0.000000)
+grid via 0.010000 (direction y) (offset 0.000000)
+protect all wires
+# All Wires Protected.
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+# Wires on layer TOP were Unprotected.
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+# Wires on layer BOTTOM were Unprotected.
+cost via -1
+# System default cost will be used.
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+# All Selected Wires Unprotected.
+route 25 1
+# Current time = Fri Oct 05 14:34:57 2018
+# 
+#    VIA     TOP   BOTTOM 
+# 
+#    TOP  -------  VIA16D8
+# BOTTOM  VIA16D8  -------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 24 Connections 94 Unroutes 28
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 46, at vias 23 Total Vias 32
+# Percent Connected   41.49
+# Manhattan Length 38148.5600 Horizontal 22135.0000 Vertical 16013.5600
+# Routed Length 25610.9848 Horizontal 14349.6400 Vertical 13168.5600
+# Ratio Actual / Manhattan   0.6713
+# Unconnected Length 13600.3900 Horizontal 8057.7100 Vertical 5542.6800
+# Start Route Pass 1 of 25
+# Routing 151 wires.
+# 11 bend points have been removed.
+# 0 bend points have been removed.
+# 9 bend points have been removed.
+# Total Conflicts: 53 (Cross: 47, Clear: 6, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 3
+# Attempts 132 Successes 128 Failures 4 Vias 42
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 1 of 25
+# Start Route Pass 2 of 25
+# Routing 162 wires.
+# 10 bend points have been removed.
+# 0 bend points have been removed.
+# 7 bend points have been removed.
+# Total Conflicts: 62 (Cross: 35, Clear: 27, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 1
+# Attempts 134 Successes 133 Failures 1 Vias 40
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction -0.1698
+# End Pass 2 of 25
+# Start Route Pass 3 of 25
+# Routing 168 wires.
+# Total Conflicts: 28 (Cross: 28, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 135 Successes 135 Failures 0 Vias 39
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.5484
+# End Pass 3 of 25
+# Start Route Pass 4 of 25
+# Routing 187 wires.
+# Total Conflicts: 23 (Cross: 23, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 143 Successes 143 Failures 0 Vias 39
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Conflict Reduction  0.1786
+# End Pass 4 of 25
+# Start Route Pass 5 of 25
+# Routing 191 wires.
+# 5 bend points have been removed.
+# 0 bend points have been removed.
+# 7 bend points have been removed.
+# Total Conflicts: 12 (Cross: 12, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 140 Successes 140 Failures 0 Vias 45
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# Conflict Reduction  0.4783
+# End Pass 5 of 25
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# Start Route Pass 6 of 25
+# Routing 53 wires.
+# Total Conflicts: 10 (Cross: 4, Clear: 6, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 50 Successes 50 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 6 of 25
+# Start Route Pass 7 of 25
+# Routing 16 wires.
+# Total Conflicts: 6 (Cross: 3, Clear: 3, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 12 Successes 12 Failures 0 Vias 56
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 7 of 25
+# Start Route Pass 8 of 25
+# Routing 27 wires.
+# Total Conflicts: 3 (Cross: 1, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 21 Successes 21 Failures 0 Vias 54
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:01
+# End Pass 8 of 25
+# Start Route Pass 9 of 25
+# Routing 3 wires.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 3 Successes 3 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 9 of 25
+# Start Route Pass 10 of 25
+# Routing 7 wires.
+# 1 bend points have been removed.
+# 0 bend points have been removed.
+# 1 bend points have been removed.
+# Total Conflicts: 1 (Cross: 1, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 7 Successes 7 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 10 of 25
+# Start Route Pass 11 of 25
+# Routing 2 wires.
+# Total Conflicts: 4 (Cross: 1, Clear: 3, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 2 Successes 2 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 11 of 25
+# Start Route Pass 12 of 25
+# Routing 7 wires.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 7 Successes 7 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 12 of 25
+# Start Route Pass 13 of 25
+# Routing 6 wires.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 6 Successes 6 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 13 of 25
+# Start Route Pass 14 of 25
+# Routing 8 wires.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 8 Successes 8 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 14 of 25
+# Start Route Pass 15 of 25
+# Routing 12 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 3 bend points have been removed.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 12 Successes 12 Failures 0 Vias 54
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 15 of 25
+# Start Route Pass 16 of 25
+# Routing 8 wires.
+# Total Conflicts: 6 (Cross: 4, Clear: 2, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 8 Successes 8 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 16 of 25
+# Start Route Pass 17 of 25
+# Routing 5 wires.
+# Total Conflicts: 5 (Cross: 2, Clear: 3, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 5 Successes 5 Failures 0 Vias 60
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 17 of 25
+# Start Route Pass 18 of 25
+# Routing 27 wires.
+# Total Conflicts: 1 (Cross: 1, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 22 Successes 22 Failures 0 Vias 56
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 18 of 25
+# Start Route Pass 19 of 25
+# Routing 3 wires.
+# Total Conflicts: 6 (Cross: 3, Clear: 3, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 3 Successes 3 Failures 0 Vias 55
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 19 of 25
+# Start Route Pass 20 of 25
+# Routing 14 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 5 bend points have been removed.
+# Total Conflicts: 1 (Cross: 1, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 13 Successes 13 Failures 0 Vias 56
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 20 of 25
+# Start Route Pass 21 of 25
+# Routing 5 wires.
+# Total Conflicts: 1 (Cross: 1, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 5 Successes 5 Failures 0 Vias 56
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 21 of 25
+# Start Route Pass 22 of 25
+# Routing 6 wires.
+# Total Conflicts: 4 (Cross: 4, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 6 Successes 6 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 22 of 25
+# Start Route Pass 23 of 25
+# Routing 15 wires.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 14 Successes 14 Failures 0 Vias 54
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 23 of 25
+# Start Route Pass 24 of 25
+# Routing 8 wires.
+# Total Conflicts: 6 (Cross: 2, Clear: 4, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 8 Successes 8 Failures 0 Vias 56
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 24 of 25
+# Start Route Pass 25 of 25
+# Routing 8 wires.
+# 2 bend points have been removed.
+# 0 bend points have been removed.
+# 5 bend points have been removed.
+# Total Conflicts: 2 (Cross: 2, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 7 Successes 7 Failures 0 Vias 58
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# End Pass 25 of 25
+# Cpu Time = 0:00:09  Elapsed Time = 0:00:09
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    11|   789|  87|    1|   52|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    14|   778|  84|    1|   55|    0|   0|  1|  0:00:00|  0:00:00|
+# Route    |  3|    12|   773|  86|    1|   55|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|    10|   766|  85|    1|   57|    0|   0|  1|  0:00:01|  0:00:01|
+# Route    |  5|    10|   758|  84|    1|   56|    0|   0|  1|  0:00:00|  0:00:01|
+# Route    |  6|    14|   261|  77|   26|   34|    0|   0| 64|  0:00:00|  0:00:01|
+# Route    |  7|    19|   274|  68|   23|   36|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|    15|   261|  71|   23|   35|    0|   0|  5|  0:00:01|  0:00:03|
+# Route    |  9|    24|   273|  68|   22|   38|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 10|    21|   263|  72|   22|   38|    0|   0|  4|  0:00:01|  0:00:04|
+# Route    | 11|    19|   230|  54|   25|   38|    0|   0| 12|  0:00:01|  0:00:05|
+# Route    | 12|    21|   199|  57|   26|   37|    0|   0| 11|  0:00:00|  0:00:05|
+# Route    | 13|    19|   213|  54|   26|   37|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 14|    21|   238|  57|   26|   37|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 15|    19|   204|  57|   26|   37|    0|   0| 13|  0:00:01|  0:00:07|
+# Route    | 16|    20|   216|  58|   26|   38|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 17|    21|   218|  55|   26|   37|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 18|    21|   202|  56|   26|   37|    0|   0|  6|  0:00:01|  0:00:09|
+# Route    | 19|    25|   200|  55|   26|   35|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 20|    19|   212|  74|   26|   37|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 21|    21|   215|  74|   26|   37|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 22|    13|   259|  72|   27|   33|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 23|    13|   194|  74|   28|   32|    0|   0| 23|  0:00:01|  0:00:11|
+# Route    | 24|    12|   194|  73|   28|   32|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 25|    12|   195|  72|   28|   32|    0|   0|  0|  0:00:00|  0:00:12|
+# Clean    | 26|    12|   195|  97|   28|   32|    0|   0|   |  0:00:00|  0:00:12|
+# Clean    | 27|    12|   195|  96|   28|   32|    0|   0|   |  0:00:00|  0:00:12|
+# Miter    | 27|    12|   195|   0|   28|   32|    0|   0|   |  0:00:01|  0:00:13|
+# Delete   | 27|    12|   195|   0|   28|   32|    0|   0|   |  0:00:01|  0:00:14|
+# Read Rte | 27|    12|     8|   0|   28|   32|    0|   0|   |  0:00:00|  0:00:14|
+# Route    | 28|    47|     6|   4|    3|   42|    0|   0| 74|  0:00:00|  0:00:14|
+# Route    | 29|    35|    27|   1|    1|   40|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 30|    28|     0|   0|    0|   39|    0|   0| 54|  0:00:00|  0:00:14|
+# Route    | 31|    23|     0|   0|    0|   39|    0|   0| 17|  0:00:00|  0:00:14|
+# Route    | 32|    12|     0|   0|    0|   45|    0|   0| 47|  0:00:00|  0:00:14|
+# Route    | 33|     4|     6|   0|    0|   54|    0|   0| 16|  0:00:00|  0:00:14|
+# Route    | 34|     3|     3|   0|    0|   56|    0|   0| 40|  0:00:00|  0:00:14|
+# Route    | 35|     1|     2|   0|    0|   54|    0|   0| 50|  0:00:01|  0:00:15|
+# Route    | 36|     2|     0|   0|    0|   54|    0|   0| 33|  0:00:00|  0:00:15|
+# Route    | 37|     1|     0|   0|    0|   54|    0|   0| 50|  0:00:00|  0:00:15|
+# Route    | 38|     1|     3|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:15|
+# Route    | 39|     2|     0|   0|    0|   54|    0|   0| 50|  0:00:00|  0:00:15|
+# Route    | 40|     2|     0|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:15|
+# Route    | 41|     2|     0|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:15|
+# Route    | 42|     2|     0|   0|    0|   54|    0|   0|  0|  0:00:01|  0:00:16|
+# Route    | 43|     4|     2|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 44|     2|     3|   0|    0|   60|    0|   0| 16|  0:00:00|  0:00:16|
+# Route    | 45|     1|     0|   0|    0|   56|    0|   0| 80|  0:00:00|  0:00:16|
+# Route    | 46|     3|     3|   0|    0|   55|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 47|     1|     0|   0|    0|   56|    0|   0| 83|  0:00:00|  0:00:16|
+# Route    | 48|     1|     0|   0|    0|   56|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 49|     4|     0|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 50|     2|     0|   0|    0|   54|    0|   0| 50|  0:00:00|  0:00:16|
+# Route    | 51|     2|     4|   0|    0|   56|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 52|     2|     0|   0|    0|   58|    0|   0| 66|  0:00:00|  0:00:16|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:16
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 24 Connections 94 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 60, at vias 20 Total Vias 58
+# Percent Connected   96.81
+# Manhattan Length 35430.3100 Horizontal 20982.3870 Vertical 14447.9230
+# Routed Length 39943.3540 Horizontal 22045.2200 Vertical 18010.8100
+# Ratio Actual / Manhattan   1.1274
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+clean 2
+# Current time = Fri Oct 05 14:35:06 2018
+# 
+#    VIA     TOP   BOTTOM 
+# 
+#    TOP  -------  VIA16D8
+# BOTTOM  VIA16D8  -------
+# 
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 24 Connections 94 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 60, at vias 20 Total Vias 58
+# Percent Connected   96.81
+# Manhattan Length 35430.3100 Horizontal 20982.3870 Vertical 14447.9230
+# Routed Length 39943.3540 Horizontal 22045.2200 Vertical 18010.8100
+# Ratio Actual / Manhattan   1.1274
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Start Clean Pass 1 of 2
+# Routing 192 wires.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 154 Successes 152 Failures 2 Vias 53
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:01
+# End Pass 1 of 2
+# Start Clean Pass 2 of 2
+# Routing 196 wires.
+# 0 bend points have been removed.
+# 0 bend points have been removed.
+# 2 bend points have been removed.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Total Unroutes: 0
+# Attempts 152 Successes 152 Failures 0 Vias 50
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# End Pass 2 of 2
+# Cpu Time = 0:00:02  Elapsed Time = 0:00:01
+# 
+# Design Rules --------------------------------------------
+# Via Grid 0.0100 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# Layer BOTTOM Vert Signal Wire Grid 0.0100 with offset 0.0000, Width=10.0000, Clearance=10.0000
+# ROUTING HISTORY ================================================================
+#     Pass     |   Conflicts |    |     |     |     |    |Red|      CPU Time     |
+#   Name   |No.| Cross| Clear|Fail|Unrte| Vias|XTalk|Len.| % |  Pass   |  Total  |
+#----------+---+------+------+----+-----+-----+-----+----+---+---------+---------|
+# Route    |  1|    11|   789|  87|    1|   52|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  2|    14|   778|  84|    1|   55|    0|   0|  1|  0:00:00|  0:00:00|
+# Route    |  3|    12|   773|  86|    1|   55|    0|   0|  0|  0:00:00|  0:00:00|
+# Route    |  4|    10|   766|  85|    1|   57|    0|   0|  1|  0:00:01|  0:00:01|
+# Route    |  5|    10|   758|  84|    1|   56|    0|   0|  1|  0:00:00|  0:00:01|
+# Route    |  6|    14|   261|  77|   26|   34|    0|   0| 64|  0:00:00|  0:00:01|
+# Route    |  7|    19|   274|  68|   23|   36|    0|   0|  0|  0:00:01|  0:00:02|
+# Route    |  8|    15|   261|  71|   23|   35|    0|   0|  5|  0:00:01|  0:00:03|
+# Route    |  9|    24|   273|  68|   22|   38|    0|   0|  0|  0:00:00|  0:00:03|
+# Route    | 10|    21|   263|  72|   22|   38|    0|   0|  4|  0:00:01|  0:00:04|
+# Route    | 11|    19|   230|  54|   25|   38|    0|   0| 12|  0:00:01|  0:00:05|
+# Route    | 12|    21|   199|  57|   26|   37|    0|   0| 11|  0:00:00|  0:00:05|
+# Route    | 13|    19|   213|  54|   26|   37|    0|   0|  0|  0:00:01|  0:00:06|
+# Route    | 14|    21|   238|  57|   26|   37|    0|   0|  0|  0:00:00|  0:00:06|
+# Route    | 15|    19|   204|  57|   26|   37|    0|   0| 13|  0:00:01|  0:00:07|
+# Route    | 16|    20|   216|  58|   26|   38|    0|   0|  0|  0:00:01|  0:00:08|
+# Route    | 17|    21|   218|  55|   26|   37|    0|   0|  0|  0:00:00|  0:00:08|
+# Route    | 18|    21|   202|  56|   26|   37|    0|   0|  6|  0:00:01|  0:00:09|
+# Route    | 19|    25|   200|  55|   26|   35|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 20|    19|   212|  74|   26|   37|    0|   0|  0|  0:00:00|  0:00:09|
+# Route    | 21|    21|   215|  74|   26|   37|    0|   0|  0|  0:00:01|  0:00:10|
+# Route    | 22|    13|   259|  72|   27|   33|    0|   0|  0|  0:00:00|  0:00:10|
+# Route    | 23|    13|   194|  74|   28|   32|    0|   0| 23|  0:00:01|  0:00:11|
+# Route    | 24|    12|   194|  73|   28|   32|    0|   0|  0|  0:00:01|  0:00:12|
+# Route    | 25|    12|   195|  72|   28|   32|    0|   0|  0|  0:00:00|  0:00:12|
+# Clean    | 26|    12|   195|  97|   28|   32|    0|   0|   |  0:00:00|  0:00:12|
+# Clean    | 27|    12|   195|  96|   28|   32|    0|   0|   |  0:00:00|  0:00:12|
+# Miter    | 27|    12|   195|   0|   28|   32|    0|   0|   |  0:00:01|  0:00:13|
+# Delete   | 27|    12|   195|   0|   28|   32|    0|   0|   |  0:00:01|  0:00:14|
+# Read Rte | 27|    12|     8|   0|   28|   32|    0|   0|   |  0:00:00|  0:00:14|
+# Route    | 28|    47|     6|   4|    3|   42|    0|   0| 74|  0:00:00|  0:00:14|
+# Route    | 29|    35|    27|   1|    1|   40|    0|   0|  0|  0:00:00|  0:00:14|
+# Route    | 30|    28|     0|   0|    0|   39|    0|   0| 54|  0:00:00|  0:00:14|
+# Route    | 31|    23|     0|   0|    0|   39|    0|   0| 17|  0:00:00|  0:00:14|
+# Route    | 32|    12|     0|   0|    0|   45|    0|   0| 47|  0:00:00|  0:00:14|
+# Route    | 33|     4|     6|   0|    0|   54|    0|   0| 16|  0:00:00|  0:00:14|
+# Route    | 34|     3|     3|   0|    0|   56|    0|   0| 40|  0:00:00|  0:00:14|
+# Route    | 35|     1|     2|   0|    0|   54|    0|   0| 50|  0:00:01|  0:00:15|
+# Route    | 36|     2|     0|   0|    0|   54|    0|   0| 33|  0:00:00|  0:00:15|
+# Route    | 37|     1|     0|   0|    0|   54|    0|   0| 50|  0:00:00|  0:00:15|
+# Route    | 38|     1|     3|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:15|
+# Route    | 39|     2|     0|   0|    0|   54|    0|   0| 50|  0:00:00|  0:00:15|
+# Route    | 40|     2|     0|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:15|
+# Route    | 41|     2|     0|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:15|
+# Route    | 42|     2|     0|   0|    0|   54|    0|   0|  0|  0:00:01|  0:00:16|
+# Route    | 43|     4|     2|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 44|     2|     3|   0|    0|   60|    0|   0| 16|  0:00:00|  0:00:16|
+# Route    | 45|     1|     0|   0|    0|   56|    0|   0| 80|  0:00:00|  0:00:16|
+# Route    | 46|     3|     3|   0|    0|   55|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 47|     1|     0|   0|    0|   56|    0|   0| 83|  0:00:00|  0:00:16|
+# Route    | 48|     1|     0|   0|    0|   56|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 49|     4|     0|   0|    0|   54|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 50|     2|     0|   0|    0|   54|    0|   0| 50|  0:00:00|  0:00:16|
+# Route    | 51|     2|     4|   0|    0|   56|    0|   0|  0|  0:00:00|  0:00:16|
+# Route    | 52|     2|     0|   0|    0|   58|    0|   0| 66|  0:00:00|  0:00:16|
+# Clean    | 53|     0|     0|   2|    0|   53|    0|   0|   |  0:00:00|  0:00:16|
+# Clean    | 54|     0|     0|   0|    0|   50|    0|   0|   |  0:00:01|  0:00:17|
+# Conflicts between polygon wires and fixed objects:   0
+# Stub Violations:   0
+# Net Order Violations:   0
+# Diffpair Uncoupled Length Violations:   0
+# Diffpair Phase Tolerance  Violations:   0
+# Total layerset violations:   0
+# Total layerset violations (exclude Fanout/Stagger/XNet Short side):   0
+# Overall Routing Time: 0:00:17
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 24 Connections 94 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 59, at vias 18 Total Vias 50
+# Percent Connected  100.00
+# Manhattan Length 35077.0000 Horizontal 20548.7610 Vertical 14528.2390
+# Routed Length 39886.7140 Horizontal 22007.7500 Vertical 17991.6400
+# Ratio Actual / Manhattan   1.1371
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+miter 4 (style diagonal) (pin) (slant) (tjunction) (bend) (layer TOP BOTTOM)
+# Diagonal wire corners are preferred.
+# Current time = Fri Oct 05 14:35:08 2018
+# 9 bend points have been removed.
+# Convert orthogonal pin exit to diagonal...
+# Convert wire segment to diagonal...
+# Convert orthogonal corner to diagonal...
+# 0 bend points have been removed.
+# Corners changed 148
+# 90 degree wire corners are preferred.
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:01  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- E:/Project/FPMemory/PCB/lib/ColorView\FPMemory.dsn
+# Nets 24 Connections 94 Unroutes 0
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 56, at vias 18 Total Vias 50
+# Percent Connected  100.00
+# Manhattan Length 35077.0000 Horizontal 20548.7610 Vertical 14528.2390
+# Routed Length 37409.5615 Horizontal 22134.5800 Vertical 18130.7900
+# Ratio Actual / Manhattan   1.0665
+# Unconnected Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+write routes (changed_only) (reset_changed) C:/Users/Lee/AppData/Local/Temp/#Taaaacl08108.tmp
+# Routing Written to File C:/Users/Lee/AppData/Local/Temp/#Taaaacl08108.tmp
+quit

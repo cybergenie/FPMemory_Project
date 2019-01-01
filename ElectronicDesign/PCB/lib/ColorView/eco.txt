@@ -1,0 +1,289 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ADC1_CH4     pins MOVED FROM this net (to net name listed on right)
+                                 U1.8                           
+                                                                       ADC1_CH7
+                                 U3.1             125.00  113.70
+                                                                       ADC2_CH5
+                                 U3.2              75.00  113.70
+                                                                       ADC2_CH5
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC1_CH5     pins MOVED FROM this net (to net name listed on right)
+                                 C6.1             295.00  282.63
+                                                                          VDD33
+                                 U1.9                           
+                                                                       ADC1_CH7
+                                 U3.6            -125.00  113.70
+                                                                       ADC2_CH6
+                                 U3.7            -175.00  113.70
+                                                                       ADC2_CH6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC1_CH6     pins MOVED FROM this net (to net name listed on right)
+                                 C1.2            -430.43  321.00
+                                                                          VDD33
+                                 U1.6                           
+                                                                       ADC1_CH5
+                                 U3.13             75.00  326.30
+                                                                       ADC2_CH9
+                                 U3.14            125.00  326.30
+                                                                       ADC2_CH9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC1_CH7     pins MOVED FROM this net (to net name listed on right)
+                                 C2.1            -250.43  455.00
+                                                                            GND
+                                 U1.7                           
+                                                                       ADC1_CH5
+                                 U3.8            -175.00  326.30
+                                                                       ADC2_CH7
+                                 U3.9            -125.00  326.30
+                                                                       ADC2_CH7
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC2_CH5     pins MOVED FROM this net (to net name listed on right)
+                                 C13.2            295.00 -103.83
+                                                                            GND
+                                 U1.14                          
+                                                                       ADC1_CH6
+                                 U4.1              12.40 -161.14
+                                                                            VCC
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U4.2             -25.00 -161.14
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC2_CH6     pins MOVED FROM this net (to net name listed on right)
+                                 C14.1           -161.24 -330.00
+                                                                            VCC
+                                 U1.13                          
+                                                                       ADC1_CH6
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC2_CH7     pins MOVED FROM this net (to net name listed on right)
+                                 C10.1           -344.02 -330.00
+                                                                            GND
+                                 U1.12                          
+                                                                         N02980
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADC2_CH9     pins MOVED FROM this net (to net name listed on right)
+                                 C15.2           -430.43 -113.96
+                                                                            GND
+                                 U1.11                          
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 C2.2            -179.57  455.00
+                                                                         N05883
+                                 C7.1            -359.57  212.26
+                                                                       ADC1_CH5
+                                 C9.2             -49.28 -330.00
+                                                                       ADC2_CH5
+                                 C10.2           -414.88 -330.00
+                                                                       ADC2_CH9
+                                 C13.1            295.00  -32.97
+                                                                       ADC2_CH7
+                                 C15.1           -359.57 -113.96
+                                                                          VDD33
+                                 R1.2            -430.43  103.52
+                                                                          VDD33
+                                 R2.1                           
+                                                                         N01133
+                                 R8.2             420.00 -190.77
+                                                                         N45127
+                                 R9.1             295.00 -190.77
+                                                                         N45143
+                                 U1.1                           
+                                                                       ADC1_CH4
+                                 U2.2            -309.65  401.93
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                                                          VDD33
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01133       pins MOVED FROM this net (to net name listed on right)
+                                 R3.1             420.00  282.63
+                                                                         N02980
+                                 U3.3              25.00  113.70
+                                                                         N44841
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02072       pins MOVED FROM this net (to net name listed on right)
+                                 R2.2                           
+                                                                            GND
+                                 S5.2            -545.00  -87.91
+                                                                         N44841
+                                 U3.5             -75.00  113.70
+                                                                         N45127
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02980       pins MOVED FROM this net (to net name listed on right)
+                                 R5.1             420.00   54.57
+                                                                         N03024
+                                 S3.2            -545.00  123.94
+                                                                         N02072
+                                 U3.12             25.00  326.30
+                                                                         N44913
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03024       pins MOVED FROM this net (to net name listed on right)
+                                 R1.1            -359.57  103.52
+                                                                         N05883
+                                 S7.2            -545.00 -299.76
+                                                                         N45127
+                                 U3.10            -75.00  326.30
+                                                                         N45143
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.10                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05883       pins MOVED FROM this net (to net name listed on right)
+                                 C3.2            -430.43  429.74
+                                                                          VDD33
+                                 R4.1             420.00  440.43
+                                                                            GND
+                                 U1.3                           
+                                                                         N01133
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N44841       pins MOVED FROM this net (to net name listed on right)
+                                 R7.1            -359.57 -222.70
+                                                                         N44913
+                                 S2.2             550.00  335.79
+                                                                         N02980
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N44913       pins MOVED FROM this net (to net name listed on right)
+                                 R8.1             420.00 -261.63
+                                                                            GND
+                                 S4.2             550.00  123.94
+                                                                         N03024
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N45127       pins MOVED FROM this net (to net name listed on right)
+                                 R9.2             295.00 -261.63
+                                                                            GND
+                                 S6.2             550.00  -88.42
+                                                                         N44913
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N45143       pins MOVED FROM this net (to net name listed on right)
+                                 R6.1             420.00  -32.97
+                                                                         N44841
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins MOVED FROM this net (to net name listed on right)
+                                 C9.1              21.58 -330.00
+                                                                            GND
+                                 U2.1            -309.65  451.93
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD33        pins MOVED FROM this net (to net name listed on right)
+                                 C5.2              -4.57  455.00
+                                                                       ADC1_CH6
+                                 C7.2            -430.43  212.26
+                                                                            GND
+                                 C8.1             295.00   53.97
+                                                                       ADC1_CH7
+                                 C12.1            204.36 -330.00
+                                                                       ADC2_CH6
+                                 R4.2             420.00  369.57
+                                                                         N02072
+                                 U1.2                           
+                                                                       ADC1_CH4
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 U1.4                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C14                 CAP NP_CAP0805_1UF    -395.00   -5.22
+ R1                  R_RES0805_50K          135.00  455.00
+ U4                  TPS70933_SOT-23_TPS70933  370.00 -420.00
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11                 CAP NP_CAP0805_0.1UF  
+ R2                  R_RES0805_50K         
+ U1                  LM324_SOIC-14_LM324   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C14                 CAP NP_CAP0805_1UF    -196.67 -330.00 CAP NP_CAP0805_0.1UF
+ U4                  TPS70933_SOT-23_TPS70933  -25.00 -109.96 LM324_SOIC-14_LM324
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd                          |
+|                                                    Fri Oct 05 02:45:03 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C14.2          -196.67 -330.00 PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U4.4            -25.00 -109.96 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      69                                        |
+|       Components added      :       3                                        |
+|       Components deleted    :       3                                        |
+|       Components changed    :       2                                        |
+|       Slot property added   :       5                                        |
+|                                                                              |
+|   Total ECO changes reported:      82                                        |
+|------------------------------------------------------------------------------|

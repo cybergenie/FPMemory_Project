@@ -1,0 +1,516 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : FPMemory_1.brd                                )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Sat Oct 20 22:28:06 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+
+Via Eliminate glossing in progress.
+Started on Sat Oct 20 22:28:06 2018
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net N05919 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net SCL :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net SDA :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02072 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH4 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH5 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net GND :
+Through Via Candidates: 18, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net RXD :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44841 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VDD33 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N05883 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH9 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45143 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45127 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH6 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44913 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH5 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02980 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 22:28:06 2018
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 57, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 57,  Total Eliminations = 0,  0 % Eliminatons.
+
+
+
+
+Via Eliminate glossing in progress.
+Started on Sat Oct 20 22:28:06 2018
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net N05919 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net SCL :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net SDA :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02072 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH4 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH5 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net GND :
+Through Via Candidates: 18, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net RXD :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44841 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VDD33 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N05883 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH9 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45143 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45127 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH6 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44913 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH5 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02980 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 22:28:06 2018
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 57, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 57,  Total Eliminations = 0,  0 % Eliminatons.
+
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 22:28:06 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (154.81,157.20).
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-185.77).
+
+Glossing attempt unsuccessful. Active pad is at (387.03,445.43).
+
+Glossing attempt unsuccessful. Active pad is at (-22.56,35.84).
+
+Glossing was successful:  SYMBOL PIN at (-430.43,-203.96) defined by pad  SMD145_115R
+
+Glossing was successful:  VIA at (565.00,394.00) defined by pad  VIA16D8
+
+Glossing was successful:  SYMBOL PIN at (450.00,-98.83) defined by pad  SMD145_115R
+
+Glossing was successful:  VIA at (253.48,-393.00) defined by pad  VIA16D8
+
+Glossing was successful:  SYMBOL PIN at (450.00,287.63) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (125.00,-3.66).
+
+Glossing was successful:  VIA at (101.00,375.80) defined by pad  VIA16D8
+
+Glossing was successful:  VIA at (101.00,375.80) defined by pad  VIA16D8
+
+Glossing was successful:  VIA at (-73.93,415.80) defined by pad  VIA16D8
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-256.63).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,113.70).
+
+Glossing attempt unsuccessful. Active pad is at (243.81,319.93).
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (154.81,157.20).
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-185.77).
+
+Glossing attempt unsuccessful. Active pad is at (387.03,445.43).
+
+Glossing attempt unsuccessful. Active pad is at (-22.56,35.84).
+
+Glossing attempt unsuccessful. Active pad is at (125.00,-3.66).
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-256.63).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,113.70).
+
+Glossing attempt unsuccessful. Active pad is at (243.81,319.93).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 22:28:06 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 24
+Number of Actual Glossings                    : 8
+Number of Glossings Aborted by DRC violations : 0
+
+
+
+
+Line Smooth glossing in progress.
+Started on Sat Oct 20 22:28:06 2018
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.01.
+
+ Maximum 45 limit is -0.01.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 22:28:06 2018
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Line Centering Between Pins glossing in progress.
+Started on Sat Oct 20 22:28:06 2018
+
+Minimum Move Size 2.00.
+Line spacing MINIMUM
+Pad Tolerance 100.00.
+Corner type 45
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 22:28:06 2018
+
+
+
+Line Center Between Pins Stats
+
+Number of Glossing Attempts                   : 255
+Number of Actual Glossings                    : 13
+Number of Glossings Aborted by DRC violations : 4
+Number of Glossings Aborted by No-Gloss nets  : 0
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 22:28:06 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (400.00,-370.00).
+
+Glossing attempt unsuccessful. Active pad is at (-204.81,-2.07).
+
+Glossing was successful:  SYMBOL PIN at (450.00,374.57) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (-75.00,113.70) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (75.00,113.70) defined by pad  SMD160_060R
+
+Glossing attempt unsuccessful. Active pad is at (154.81,157.20).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,157.20).
+
+Glossing was successful:  SYMBOL PIN at (75.00,-216.26) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (179.57,-445.00) defined by pad  SMD145_115R
+
+Glossing was successful:  VIA at (-161.07,-345.00) defined by pad  VIA16D8
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-185.77).
+
+Glossing was successful:  SYMBOL PIN at (450.00,-185.77) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (551.07,-479.99).
+
+Glossing attempt unsuccessful. Active pad is at (60.00,-440.00).
+
+Glossing was successful:  SYMBOL PIN at (179.57,-345.00) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (-397.21,-293.45).
+
+Glossing attempt unsuccessful. Active pad is at (18.93,440.00).
+
+Glossing attempt unsuccessful. Active pad is at (387.03,445.43).
+
+Glossing attempt unsuccessful. Active pad is at (-22.56,35.84).
+
+Glossing attempt unsuccessful. Active pad is at (-22.56,35.84).
+
+Glossing attempt unsuccessful. Active pad is at (-430.43,-203.96).
+
+Glossing was successful:  SYMBOL PIN at (-359.57,-340.00) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (-25.00,326.30) defined by pad  SMD160_060R
+
+Glossing was successful:  VIA at (565.00,394.00) defined by pad  VIA16D8
+
+Glossing attempt unsuccessful. Active pad is at (-494.07,480.55).
+
+Glossing was successful:  SYMBOL PIN at (-359.57,439.74) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-98.83).
+
+Glossing was successful:  SYMBOL PIN at (-240.00,-440.00) defined by pad  THP080C
+
+Glossing was successful:  SYMBOL PIN at (339.65,246.93) defined by pad  SMD200_090R
+
+Glossing attempt unsuccessful. Active pad is at (25.00,-367.99).
+
+Glossing was successful:  SYMBOL PIN at (-359.57,-203.96) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (25.00,113.70) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (250.43,-345.00) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (-329.65,396.93) defined by pad  SMD200_090R
+
+Glossing attempt unsuccessful. Active pad is at (-25.00,113.70).
+
+Glossing was successful:  SYMBOL PIN at (295.00,58.97) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (550.00,35.00) defined by pad  THP080R
+
+Glossing was successful:  SYMBOL PIN at (550.00,435.00) defined by pad  THP080R
+
+Glossing was successful:  SYMBOL PIN at (-359.57,53.52) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (-471.07,403.55).
+
+Glossing was successful:  SYMBOL PIN at (-430.43,439.74) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (125.00,-3.66).
+
+Glossing was successful:  SYMBOL PIN at (-430.43,-340.00) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (-125.00,-3.66) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (-175.00,-216.26) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (-49.57,-345.00) defined by pad  SMD145_115R
+
+Glossing was successful:  VIA at (496.55,-136.47) defined by pad  VIA16D8
+
+Glossing was successful:  SYMBOL PIN at (450.00,-27.97) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (295.00,-256.63) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (295.00,-256.63) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (125.00,326.30) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (75.00,326.30) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (-114.57,440.00) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-256.63).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,113.70).
+
+Glossing was successful:  SYMBOL PIN at (-125.00,113.70) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (-125.00,326.30) defined by pad  SMD160_060R
+
+Glossing was successful:  SYMBOL PIN at (-329.65,146.93) defined by pad  SMD200_090R
+
+Glossing was successful:  SYMBOL PIN at (130.43,440.00) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (130.43,440.00) defined by pad  SMD145_115R
+
+Glossing was successful:  SYMBOL PIN at (25.00,326.30) defined by pad  SMD160_060R
+
+Glossing attempt unsuccessful. Active pad is at (243.81,319.93).
+
+Glossing was successful:  SYMBOL PIN at (450.00,59.57) defined by pad  SMD145_115R
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (400.00,-370.00).
+
+Glossing attempt unsuccessful. Active pad is at (-204.81,-2.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,157.20).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,157.20).
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-185.77).
+
+Glossing attempt unsuccessful. Active pad is at (551.07,-479.99).
+
+Glossing attempt unsuccessful. Active pad is at (60.00,-440.00).
+
+Glossing attempt unsuccessful. Active pad is at (-397.21,-293.45).
+
+Glossing attempt unsuccessful. Active pad is at (18.93,440.00).
+
+Glossing attempt unsuccessful. Active pad is at (387.03,445.43).
+
+Glossing attempt unsuccessful. Active pad is at (-22.56,35.84).
+
+Glossing attempt unsuccessful. Active pad is at (-22.56,35.84).
+
+Glossing attempt unsuccessful. Active pad is at (-430.43,-203.96).
+
+Glossing attempt unsuccessful. Active pad is at (-494.07,480.55).
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-98.83).
+
+Glossing attempt unsuccessful. Active pad is at (25.00,-367.99).
+
+Glossing attempt unsuccessful. Active pad is at (-25.00,113.70).
+
+Glossing attempt unsuccessful. Active pad is at (-471.07,403.55).
+
+Glossing attempt unsuccessful. Active pad is at (125.00,-3.66).
+
+Glossing attempt unsuccessful. Active pad is at (450.00,-256.63).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,113.70).
+
+Glossing attempt unsuccessful. Active pad is at (243.81,319.93).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 1 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 22:28:07 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 85
+Number of Actual Glossings                    : 41
+Number of Glossings Aborted by DRC violations : 0
+
+
+WARNING: Glossing operations may leave fillets out of date.
+
+
+Glossing complete.

@@ -1,0 +1,775 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : FPMEMORY.brd                                  )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Sat Oct 20 03:12:14 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+**WARNING: Disabling dynamic shapes
+
+
+
+Via Eliminate glossing in progress.
+Started on Sat Oct 20 03:12:14 2018
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net N05919 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02072 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH4 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH5 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+Warning: cline at (-325.26, -316.72) forms loop
+
+Eliminations on net TXD :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44841 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VDD33 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N05883 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH9 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45143 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45127 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44913 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH5 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH7 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N03024 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02980 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 36, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 36,  Total Eliminations = 0,  0 % Eliminatons.
+
+There were 1 warnings reported in logfile
+
+
+
+Via Eliminate glossing in progress.
+Started on Sat Oct 20 03:12:14 2018
+ with Parameters: 
+   Jog limit            : -1 
+   Used pin escapes        : YES 
+   Unused pin escapes      : YES 
+   Stand alone vias        : YES 
+   Regular through vias    : YES 
+
+
+Eliminations on net N05919 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02072 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH4 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH5 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+Warning: cline at (-325.26, -316.72) forms loop
+
+Eliminations on net TXD :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44841 :
+Through Via Candidates: 4, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net VDD33 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N05883 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH9 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH7 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC2_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45143 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N45127 :
+Through Via Candidates: 3, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH6 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N44913 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH5 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net ADC1_CH7 :
+Through Via Candidates: 1, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N03024 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+Eliminations on net N02980 :
+Through Via Candidates: 2, Eliminations: 0,  = 0 % Eliminated.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+
+Via Eliminate Total Stats:
+Total Through Via Candidates: 36, Eliminations: 0,  = 0 % Eliminated.
+Vias: Total Candidates = 36,  Total Eliminations = 0,  0 % Eliminatons.
+
+There were 1 warnings reported in logfile
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 03:12:14 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (-101.81,-102.07).
+
+Glossing attempt unsuccessful. Active pad is at (324.65,436.93).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing was successful:  SYMBOL PIN at (295.00,282.63) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (-101.81,-102.07).
+
+Glossing attempt unsuccessful. Active pad is at (324.65,436.93).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 21
+Number of Actual Glossings                    : 1
+Number of Glossings Aborted by DRC violations : 0
+
+There were 4 errors reported in logfile
+
+
+
+Line Smooth glossing in progress.
+Started on Sat Oct 20 03:12:14 2018
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.01.
+
+ Maximum 45 limit is -0.01.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Line Centering Between Pins glossing in progress.
+Started on Sat Oct 20 03:12:14 2018
+
+Minimum Move Size 2.00.
+Line spacing MINIMUM
+Pad Tolerance 100.00.
+Corner type 45
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+
+
+Line Center Between Pins Stats
+
+Number of Glossing Attempts                   : 249
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+Number of Glossings Aborted by No-Gloss nets  : 0
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 03:12:14 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (-101.81,-102.07).
+
+Glossing attempt unsuccessful. Active pad is at (324.65,436.93).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 1
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 10
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+
+There were 2 errors reported in logfile
+Glossing Corners to Arcs initiated on Sat Oct 20 03:12:14 2018
+
+Maximum Radius = 5.00.
+Minimum Radius = 2.00.
+Number of Executions = 1
+
+Corners to Arcs Stats
+
+
+Number of Glossing Attempts                   : 3
+Number of Actual Glossings                    : 2
+Number of Failed Glossing Attempts: 1
+Number of by No-Gloss nets  : 0
+There were 2 Corners Converted to Arcs.
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+
+Glossing Corners to Arcs finished.
+
+
+
+
+Pad and T Fillet glossing in progress.
+Started on Sat Oct 20 03:12:14 2018
+
+ Round pads:          YES   max size: 100.00
+ Square pads:         YES   max size: 100.00
+ Rectangular pads:    YES   max size: 100.00
+ Oblong pads:         YES   max size: 100.00
+ Octagon pads:        YES   max size: 100.00
+ Pads as shapes:      NO 
+ Pins:                YES
+ Vias:                YES
+ Bond Fingers:        NO 
+ Ts:                  YES
+ Unused nets:         YES
+ Pads Without Drills: YES
+ Desired Pin Angle:       90
+ Desired Via Angle:       90
+ Desired T Angle:         90
+ Maximum Pin Angle:       90
+ Maximum Via Angle:       90
+ Maximum T Angle:         90
+ Pin Maximum offset:      25.00
+ Via Maximum offset:      25.00
+ T Maximum offset:        25.00
+ Pin minimum line width:  3.00
+ Via minimum line width:  3.00
+ T minimum line width:    3.00
+ Pin maximum line width:  25.00
+ Via maximum line width:  25.00
+ T maximum line width:    25.00
+ Tapers:                  NO 
+ Desired Taper Angle:     60
+ Taper Maximum offset:    25.00
+ Allow drc:           NO 
+ Dynamic:             NO 
+ Curved lines:        NO 
+
+*WARNING: Can't create fillet at pad (341.55 -255.75) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (341.55 -255.75) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (375.00 -430.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-197.28 160.20) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-197.28 160.20) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-197.28 160.20) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-517.56 63.95) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-517.56 63.95) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (231.07 346.27) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (231.07 346.27) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (236.43 320.27) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (236.43 320.27) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (236.43 320.27) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (154.81 -195.07) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't fillet T at (-101.81 -103.83) on subclass TOP.
+          The fillet does not fit.
+
+*WARNING: Can't fillet T at (137.16 -440.00) on subclass TOP.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (376.45 436.93) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (376.45 436.93) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (376.45 436.93) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-246.27 301.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-246.27 301.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-246.27 301.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-101.81 -102.07) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (99.57 408.45) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (99.57 408.45) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-246.27 212.26) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-246.27 212.26) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (575.00 -430.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-235.00 -125.07) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-235.00 -125.07) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-98.00 398.80) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-98.00 398.80) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-98.00 398.80) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-98.00 398.80) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (245.46 -80.83) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (245.46 -80.83) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (245.46 -80.83) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-235.00 -373.55) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-235.00 -373.55) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-235.00 -373.55) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (382.02 -144.47) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (382.02 -144.47) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-295.00 -250.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-295.00 -250.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-295.00 -250.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-230.00 -175.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-230.00 -175.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (154.81 -169.07) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (154.81 -169.07) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-480.00 -503.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-480.00 -503.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-435.00 -55.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-435.00 -55.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-545.00 -201.34) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't fillet T at (-468.07 212.26) on subclass BOTTOM.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (-494.56 297.46) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-494.56 297.46) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-494.56 297.46) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (253.48 -457.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (253.48 -457.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (550.00 434.21) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (-440.00 -440.00) on subclass BOTTOM.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (-440.00 -440.00) on subclass TOP.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (-402.02 150.07) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-402.02 150.07) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-275.00 360.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-275.00 360.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-460.07 -330.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-460.07 -330.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't fillet T at (125.00 -50.16) on subclass BOTTOM.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (154.81 -34.83) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (154.81 -34.83) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-125.00 -58.35) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-125.00 -58.35) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-125.00 -58.35) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (180.80 -57.83) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (180.80 -57.83) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-175.00 -148.07) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-175.00 -148.07) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't fillet T at (-161.24 -262.77) on subclass BOTTOM.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (203.80 4.67) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (203.80 4.67) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-75.00 -80.83) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-75.00 -80.83) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (418.00 -449.40) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (295.00 -298.75) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (295.00 -298.75) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (295.00 -298.75) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-75.00 -148.07) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-287.28 235.26) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-287.28 235.26) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (467.55 -322.76) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (467.55 -322.76) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (467.55 -322.76) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (242.00 -424.41) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (242.00 -424.41) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (174.81 96.97) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (174.81 96.97) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (295.00 282.63) on subclass BOTTOM.
+          Computed fillet point lies inside pad boundary; required to be outside.
+
+*WARNING: Can't create fillet at pad (-175.00 67.20) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-175.00 67.20) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-175.00 67.20) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't fillet T at (-127.20 372.80) on subclass BOTTOM.
+          The fillet does not fit.
+
+*WARNING: Can't create fillet at pad (-125.00 375.00) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-125.00 375.00) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-75.00 375.80) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (-75.00 375.80) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (170.43 375.80) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (170.43 375.80) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (25.00 408.45) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (25.00 408.45) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (483.55 259.63) on subclass TOP.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+*WARNING: Can't create fillet at pad (483.55 259.63) on subclass BOTTOM.
+          Unable to create fillet, parameters result in fillet entirely within pad.
+
+
+
+
+Total number of fillets added: 159
+
+Number of fillets rejected due to DRC errors: 0
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:12:14 2018
+
+
+There were 113 errors or warnings reported in logfile.
+
+
+Glossing complete.

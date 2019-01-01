@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RES0805.dra                                   )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Thu Oct 04 17:29:42 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Project/FPMemory/PCB/lib
+    Name      = res0805.psm
+    User      = Lee
+    Machine   = LEE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

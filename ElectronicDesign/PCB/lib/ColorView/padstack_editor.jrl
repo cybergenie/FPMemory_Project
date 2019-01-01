@@ -1,0 +1,47 @@
+\t (00:00:00) padstack_editor 17.2 S045 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Oct 05 15:50:29 2018
+\t (00:00:00)         Host=LEE-PC User=Lee Pid=14784 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession Lee -file C:/Users/Lee/AppData/Local/Temp/#Taaaaft08108.tmp -pname THP180_100C -data C:/Users/Lee/AppData/Local/Temp/#Taaaafv08108.tmp
+\t (00:00:00) 
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:18) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:20) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 3 Pad
+\d (00:00:20) QtSignal GuidedMaskLayersTab LayersTable cellClicked 3 Pad 3 1
+\d (00:00:25) QtSignal GuidedMaskLayersTab PadShape CurrentIndexChanged None
+\d (00:00:25) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:25) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:00:26) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:26) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:28) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:37) QtSignal MainWindow Units CurrentIndexChanged Millimeter
+\d (00:00:38) QtFillin Yes
+\w (00:00:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\d (00:00:46) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:47) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:48) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:50) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:51) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:51) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:55) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:56) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:57) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:57) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:09) QtSignal MainWindow Units CurrentIndexChanged Mils
+\d (00:01:10) QtFillin Yes
+\w (00:01:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\d (00:01:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:01:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:01:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:22) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:23) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:28) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:30) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:31) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:01:31) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:01:45) QtFillin No
+\t (00:01:45)     Journal end - Fri Oct 05 15:52:14 2018

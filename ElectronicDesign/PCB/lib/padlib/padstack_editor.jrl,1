@@ -1,0 +1,35 @@
+\t (00:00:00) padstack_editor 17.2 S045 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Oct 05 20:15:03 2018
+\t (00:00:00)         Host=LEE-PC User=Lee Pid=14132 CPUs=4
+\t (00:00:00) CmdLine= d:\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe E:\Project\FPMemory\PCB\lib\padlib\via16d8.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:03) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:04) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:13) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:14) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:14) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:00:15) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:15) QtSignal 1
+\d (00:00:15) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 67 67108864 false 1 
+\d (00:00:17) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:17) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:18) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:18) QtSignal 1
+\d (00:00:18) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 
+\d (00:00:19) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 3 Pad
+\d (00:00:19) QtSignal GuidedMaskLayersTab LayersTable cellClicked 3 Pad 3 1
+\d (00:00:19) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:19) QtSignal 1
+\d (00:00:19) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 
+\d (00:00:20) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:00:20) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:00:26) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 16.1
+\d (00:00:26) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 Pad
+\d (00:00:26) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:29) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 16.1
+\d (00:00:30) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:34) QtSignal MainWindow Save triggered
+\t (00:00:41)     Journal end - Fri Oct 05 20:15:44 2018

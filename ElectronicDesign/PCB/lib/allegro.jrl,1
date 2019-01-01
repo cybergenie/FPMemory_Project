@@ -1,0 +1,188 @@
+\t (00:45:41) allegro 17.2 S045 Windows SPB 64-bit Edition
+\t (00:45:41)     Journal start - Sat Oct 20 22:20:21 2018
+\t (00:45:41)         Host=LEE-PC User=Lee Pid=14788 CPUs=4
+\t (00:45:41) CmdLine= d:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\Project\FPMemory\ElectronicDesign\PCB\lib\SIP-2S.dra
+\t (00:45:41) 
+\d (00:45:41) Design opened: E:/Project/FPMemory/ElectronicDesign/PCB/lib/DIP-2.dra
+\i (00:45:41) trapsize 802
+\i (00:45:42) etchedit 
+\i (00:45:45) zoom in 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom in 0.1516 1.0937
+\i (00:45:45) trapsize 401
+\i (00:45:45) zoom in 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom in 0.1516 1.0938
+\i (00:45:45) trapsize 201
+\i (00:45:45) zoom out 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom out 0.1516 1.0938
+\i (00:45:45) trapsize 401
+\i (00:45:45) zoom out 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom out 0.1517 1.0937
+\i (00:45:45) trapsize 802
+\i (00:45:45) zoom out 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom out 0.1516 1.0937
+\i (00:45:45) trapsize 802
+\i (00:45:55) new 
+\i (00:46:04) newdrawfillin "DIP-2.dra" "Package Symbol (Wizard)"
+\t (00:46:04) Starting new design...
+\i (00:46:04) trapsize 802
+\i (00:46:04) trapsize 802
+\i (00:46:04) package symbol wizard 
+\i (00:46:06) setwindow form.sym_wizard
+\i (00:46:06) FORM sym_wizard sip YES 
+\i (00:46:06) FORM sym_wizard wiz_next  
+\i (00:46:08) FORM sym_wizard load_template  
+\t (00:46:08) Opening existing design...
+\t (00:46:08) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:46:08) setwindow pcb
+\i (00:46:08) trapsize 176
+\i (00:46:08) trapsize 181
+\i (00:46:08) trapsize 176
+\t (00:46:08) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:46:08) trapsize 234
+\d (00:46:08) Design opened: d:/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:46:09) setwindow form.sym_wizard
+\i (00:46:09) FORM sym_wizard wiz_next  
+\i (00:46:14) FORM sym_wizard ref_des S* 
+\i (00:46:14) FORM sym_wizard wiz_next  
+\i (00:46:17) FORM sym_wizard sip_pin_count 2 
+\i (00:46:22) FORM sym_wizard sip_width 100 
+\i (00:46:30) FORM sym_wizard sip_len 198 
+\i (00:46:37) FORM sym_wizard wiz_next  
+\i (00:46:38) FORM sym_wizard default_pad_browse  
+\t (00:46:46) No valid name selected.
+\i (00:46:48) fillin "Thp080c"
+\i (00:46:50) FORM sym_wizard pin1_pad_browse  
+\i (00:46:55) fillin "Thp080r"
+\i (00:46:56) FORM sym_wizard wiz_next  
+\i (00:46:58) FORM sym_wizard origin_at_pin1 YES 
+\i (00:46:59) FORM sym_wizard wiz_next  
+\i (00:47:00) FORM sym_wizard wiz_finish  
+\w (00:47:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:47:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:47:00) setwindow pcb
+\i (00:47:00) trapsize 239
+\i (00:47:00) trapsize 2
+\i (00:47:00) trapsize 2
+\i (00:47:00) trapsize 2
+\i (00:47:03) fillin yes 
+\i (00:47:04) fillin yes 
+\t (00:47:04) Creating package symbol 'E:/Project/FPMemory/ElectronicDesign/PCB/lib/dip-2.psm'.
+\t (00:47:04) Starting Create symbol...
+\i (00:47:04) etchedit 
+\i (00:47:05) zoom out 1 
+\i (00:47:05) setwindow pcb
+\i (00:47:05) zoom out 169 -33
+\i (00:47:05) trapsize 3
+\i (00:47:14) zoom in 1 
+\i (00:47:14) setwindow pcb
+\i (00:47:14) zoom in -11 40
+\i (00:47:14) trapsize 2
+\i (00:47:15) zoom out 1 
+\i (00:47:15) setwindow pcb
+\i (00:47:15) zoom out 69 61
+\i (00:47:15) trapsize 3
+\i (00:47:20) show measure 
+\i (00:47:23) pick grid 47 49
+\t (00:47:23) last pick:  50 50
+\i (00:47:25) pick grid 48 -150
+\t (00:47:25) last pick:  50 -150
+\i (00:47:27) zoom in 1 
+\i (00:47:27) setwindow pcb
+\i (00:47:27) zoom in -10 -186
+\i (00:47:27) trapsize 2
+\i (00:47:27) zoom in 1 
+\i (00:47:27) setwindow pcb
+\i (00:47:27) zoom in -6 -185
+\i (00:47:27) trapsize 1
+\i (00:47:28) zoom in 1 
+\i (00:47:28) setwindow pcb
+\i (00:47:28) zoom in 47 -150
+\i (00:47:28) trapsize 1
+\i (00:47:28) zoom in 1 
+\i (00:47:28) setwindow pcb
+\i (00:47:28) zoom in 47 -149
+\i (00:47:28) trapsize 1
+\i (00:47:29) pick grid 50 -149
+\t (00:47:29) last pick:  50 -150
+\i (00:47:30) zoom out 1 
+\i (00:47:30) setwindow pcb
+\i (00:47:30) zoom out 47 -151
+\i (00:47:30) trapsize 1
+\i (00:47:30) zoom out 1 
+\i (00:47:30) setwindow pcb
+\i (00:47:30) zoom out 46 -151
+\i (00:47:30) trapsize 1
+\i (00:47:33) setwindow form.find
+\i (00:47:33) FORM find all_off  
+\i (00:47:34) FORM find lines YES 
+\i (00:47:37) setwindow pcb
+\i (00:47:37) show measure 
+\i (00:47:39) pick grid 42 -149
+\t (00:47:39) last pick:  50 -150
+\i (00:47:40) zoom out 1 
+\i (00:47:40) setwindow pcb
+\i (00:47:40) zoom out 47 -154
+\i (00:47:40) trapsize 2
+\i (00:47:41) zoom out 1 
+\i (00:47:41) setwindow pcb
+\i (00:47:41) zoom out 19 -148
+\i (00:47:41) trapsize 3
+\i (00:47:41) zoom out 1 
+\i (00:47:41) setwindow pcb
+\i (00:47:41) zoom out 150 -119
+\i (00:47:41) trapsize 4
+\i (00:47:41) zoom in 1 
+\i (00:47:41) setwindow pcb
+\i (00:47:41) zoom in 24 60
+\i (00:47:41) trapsize 2
+\i (00:47:42) zoom in 1 
+\i (00:47:42) setwindow pcb
+\i (00:47:42) zoom in -12 60
+\i (00:47:42) trapsize 1
+\i (00:47:42) zoom in 1 
+\i (00:47:42) setwindow pcb
+\i (00:47:42) zoom in -12 61
+\i (00:47:42) trapsize 1
+\i (00:47:44) pick grid 14 49
+\t (00:47:44) last pick:  25 50
+\i (00:47:49) setwindow text
+\i (00:47:49) close
+\i (00:47:49) zoom out 1 
+\i (00:47:49) setwindow pcb
+\i (00:47:49) zoom out 27 39
+\i (00:47:49) trapsize 1
+\i (00:47:49) zoom out 1 
+\i (00:47:49) setwindow pcb
+\i (00:47:49) zoom out 26 40
+\i (00:47:49) trapsize 2
+\i (00:47:49) zoom out 1 
+\i (00:47:49) setwindow pcb
+\i (00:47:49) zoom out 41 39
+\i (00:47:49) trapsize 4
+\i (00:47:50) zoom out 1 
+\i (00:47:50) setwindow pcb
+\i (00:47:50) zoom out 201 -57
+\i (00:47:50) trapsize 4
+\i (00:47:51) pick grid 91 58
+\t (00:47:51) last pick:  100 50
+\i (00:47:52) prepopup 137 72
+\i (00:47:54) cancel 
+\i (00:47:54) etchedit 
+\i (00:48:07) save 
+\i (00:48:09) fillin yes 
+\t (00:48:09) Symbol 'dip-2.psm' created.
+\i (00:48:09) etchedit 
+\i (00:48:15) open 
+\i (00:48:27) fillin "E:\Project\FPMemory\ElectronicDesign\PCB\output\FPMemory_1.brd"
+\i (00:48:27) cd "E:\Project\FPMemory\ElectronicDesign\PCB\output"
+\t (00:48:27) Opening existing design...
+\t (00:48:27) Grids are drawn 40.00, 40.00 apart for enhanced viewability.
+\i (00:48:27) trapsize 63
+\i (00:48:27) trapsize 64
+\i (00:48:27) trapsize 64
+\t (00:48:27)     Journal end - Sat Oct 20 22:23:07 2018

@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : FPMemory.brd                                  )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Fri Oct 05 15:19:52 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 38
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (-610.23 511.80)  Net: GND
+	Point on shape: (544.16 -442.60)  Net: GND
+	Point on shape: (277.74 -276.81)  Net: GND
+	Point on shape: (-255.07 -219.52)  Net: GND
+	Point on shape: (-138.72 -140.08)  Net: GND
+	Point on shape: (-260.26 -63.08)  Net: GND
+	Point on shape: (-233.79 52.18)  Net: GND
+	Point on shape: (504.02 108.92)  Net: GND
+	Point on shape: (-610.23 -511.80)  Net: GND
+	Point on shape: (-567.08 176.91)  Net: GND
+	Point on shape: (-197.80 188.16)  Net: GND
+	Point on shape: (429.04 176.58)  Net: GND
+	Point on shape: (409.04 286.92)  Net: GND
+	Point on shape: (565.02 292.89)  Net: GND
+	Point on shape: (-573.88 300.70)  Net: GND
+	Point on shape: (181.78 380.56)  Net: GND
+	Point on shape: (-511.09 383.45)  Net: GND
+	Point on shape: (-453.97 408.52)  Net: GND
+	Point on shape: (456.04 511.80)  Net: GND
+	Point on shape: (-499.55 469.64)  Net: GND
+
+    Layer = BOTTOM
+	Point on shape: (504.56 -411.66)  Net: GND
+	Point on shape: (42.91 380.78)  Net: GND
+	Point on shape: (243.84 -305.87)  Net: GND
+	Point on shape: (504.56 -272.77)  Net: GND
+	Point on shape: (186.16 -247.01)  Net: GND
+	Point on shape: (-9.98 -152.78)  Net: GND
+	Point on shape: (66.66 -152.78)  Net: GND
+	Point on shape: (-113.78 -141.78)  Net: GND
+	Point on shape: (504.56 -153.24)  Net: GND
+	Point on shape: (-180.59 -65.18)  Net: GND
+	Point on shape: (-580.42 -34.94)  Net: GND
+	Point on shape: (-103.18 27.82)  Net: GND
+	Point on shape: (-206.92 128.99)  Net: GND
+	Point on shape: (-68.78 264.78)  Net: GND
+	Point on shape: (-203.65 -238.60)  Net: GND
+	Point on shape: (-205.67 191.21)  Net: GND
+	Point on shape: (231.65 305.26)  Net: GND
+	Point on shape: (-484.11 362.52)  Net: GND

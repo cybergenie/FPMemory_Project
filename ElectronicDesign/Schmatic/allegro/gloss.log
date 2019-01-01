@@ -1,0 +1,256 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Glossing                                                         )
+(                                                                     )
+(    Drawing          : FPMEMORY.brd                                  )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Sat Oct 20 03:15:01 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 03:15:01 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Glossing was successful:  SYMBOL PIN at (-359.57,429.74) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (420.00,440.43).
+
+Glossing attempt unsuccessful. Active pad is at (376.45,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (-101.81,-102.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (324.65,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (245.46,-80.83).
+
+Glossing attempt unsuccessful. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Glossing attempt unsuccessful. Active pad is at (420.00,440.43).
+
+Glossing attempt unsuccessful. Active pad is at (376.45,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (-101.81,-102.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (324.65,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (245.46,-80.83).
+
+Glossing attempt unsuccessful. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:15:01 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 29
+Number of Actual Glossings                    : 1
+Number of Glossings Aborted by DRC violations : 0
+
+There were 2 errors reported in logfile
+
+
+
+Line Smooth glossing in progress.
+Started on Sat Oct 20 03:15:01 2018
+
+ Smooth Functions  :  bubbles maximize 45 jogs dangling clines add 45s
+ Number of executions  : 1
+ Corner type  : 45
+ Length limit is -0.01.
+
+ Maximum 45 limit is -0.01.
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:15:01 2018
+
+ - 0 - Error(s) from Line smooth Glossing
+
+
+Line Centering Between Pins glossing in progress.
+Started on Sat Oct 20 03:15:01 2018
+
+Minimum Move Size 2.00.
+Line spacing MINIMUM
+Pad Tolerance 100.00.
+Corner type 45
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:15:01 2018
+
+
+
+Line Center Between Pins Stats
+
+Number of Glossing Attempts                   : 249
+Number of Actual Glossings                    : 0
+Number of Glossings Aborted by DRC violations : 0
+Number of Glossings Aborted by No-Gloss nets  : 0
+
+
+
+Line entry into Pad glossing in progress.
+Started on Sat Oct 20 03:15:01 2018
+Bend Distance is 12.00.
+
+ Circular pads:          YES
+ Square pads  :          YES
+ Rectangular pads :      YES
+ Oblong pads :           YES
+ Enter Square Pad :      Side : YES      Corner : YES  
+ Enter Rectangular Pad : Long : YES      Short  : YES      Corner : YES  
+ Enter Oblong Pad :      Side : YES      Round  : YES      Angle  : 45 OR 90
+ Enter Circular Pad :    Angle : 45 OR 90
+ Create Odd Segs:   NO
+ Corner type  :     45
+ Maximum 45 limit is -1.
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Glossing was successful:  SYMBOL PIN at (-359.57,429.74) defined by pad  SMD145_115R
+
+Glossing attempt unsuccessful. Active pad is at (420.00,440.43).
+
+Glossing attempt unsuccessful. Active pad is at (376.45,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (-101.81,-102.07).
+
+Glossing was successful:  SYMBOL PIN at (-430.43,-5.22) defined by pad  SMD145_115R
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (324.65,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (245.46,-80.83).
+
+Glossing attempt unsuccessful. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 1
+
+Glossing attempt unsuccessful. Active pad is at (324.65,-213.07).
+
+Glossing attempt unsuccessful. Active pad is at (154.81,-195.07).
+
+Glossing attempt unsuccessful. Active pad is at (420.00,440.43).
+
+Glossing attempt unsuccessful. Active pad is at (376.45,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (-101.81,-102.07).
+
+Error getting pad info on pad connected to active pad = -3000099. Active pad is at (324.65,436.93).
+
+Glossing attempt unsuccessful. Active pad is at (245.46,-80.83).
+
+Glossing attempt unsuccessful. Active pad is at (295.00,-103.83).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-295.00,-250.00).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,-58.35).
+
+Glossing attempt unsuccessful. Active pad is at (418.00,-449.40).
+
+Glossing attempt unsuccessful. Active pad is at (-75.00,-148.07).
+
+Glossing attempt unsuccessful. Active pad is at (-175.00,67.20).
+
+Glossing attempt unsuccessful. Active pad is at (-125.00,113.70).
+
+
+Finished execution 2
+
+
+Elapsed time:  0 hr 0 min 0 sec ( 0.00 hr)
+Actual time of completion: Sat Oct 20 03:15:01 2018
+
+
+Line Entry Into Pad Glossings Stats
+
+Number of Glossing Attempts                   : 30
+Number of Actual Glossings                    : 2
+Number of Glossings Aborted by DRC violations : 0
+
+There were 2 errors reported in logfile
+
+WARNING: Glossing operations may leave fillets out of date.
+
+
+Glossing complete.

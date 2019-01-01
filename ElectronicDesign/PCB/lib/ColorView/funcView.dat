@@ -1,0 +1,39 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!FUNC_CDS_FSP_INSTANCE_ID!FUNC_CDS_FSP_IS_FPGA!FUNC_CDS_FSP_UID!
+J!E:/Project/FPMemory/PCB/lib/ColorView/FPMemory.brd!Fri Oct 05 02:39:56 2018!-2000.00!-1500.00!2000.00!1500.00!0.01!mils!FPMEMORY!10.400000 mil!2!UP TO DATE!
+S!@fpmemory.fpmemory(sch_1):ins79511@fpmemory.\uart_1.normal\(chips)!UART_1_SIP-4_UART!J1!.\pstchip.dat!!!!!!F21!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins783@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S1!.\pstchip.dat!!!!!!F11!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins4606@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S3!.\pstchip.dat!!!!!!F10!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins2593@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S5!.\pstchip.dat!!!!!!F9!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins4571@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S7!.\pstchip.dat!!!!!!F8!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins44771@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S2!.\pstchip.dat!!!!!!F7!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins44795@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S4!.\pstchip.dat!!!!!!F6!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins45241@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S6!.\pstchip.dat!!!!!!F5!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins45297@fpmemory.\ims-c20b_1.normal\(chips)!IMS-C20B_1_SIP-2_IMS-C20B!S8!.\pstchip.dat!!!!!!F4!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins498@fpmemory.\esp32_1.normal\(chips)!ESP32_1_SMD-38_ESP32!U1!.\pstchip.dat!!!!!!F1!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins29313@user.\cap np.normal\(chips)!CAP NP_CAP0805_10UF!C5!.\pstchip.dat!!!!!!F36!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins44947@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C15!.\pstchip.dat!!!!!!F35!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins45041@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C12!.\pstchip.dat!!!!!!F34!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins45205@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C14!.\pstchip.dat!!!!!!F33!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins45221@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C10!.\pstchip.dat!!!!!!F32!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins29788@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C3!.\pstchip.dat!!!!!!F31!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins29365@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C7!.\pstchip.dat!!!!!!F30!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins23080@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C4!.\pstchip.dat!!!!!!F29!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins23529@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C1!.\pstchip.dat!!!!!!F28!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins22724@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C8!.\pstchip.dat!!!!!!F27!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins23302@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C6!.\pstchip.dat!!!!!!F26!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins23549@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C2!.\pstchip.dat!!!!!!F25!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins44923@user.\cap np.normal\(chips)!CAP NP_CAP0805_0.1UF!C13!.\pstchip.dat!!!!!!F24!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins56258@user.\cap np.normal\(chips)!CAP NP_CAP0805_1UF!C9!.\pstchip.dat!!!!!!F23!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins59922@user.\cap np.normal\(chips)!CAP NP_CAP0805_2.2UF!C11!.\pstchip.dat!!!!!!F22!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins29758@user.\r.normal\(chips)!R_RES0805_10K!R4!.\pstchip.dat!!!!!!F20!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins1312@user.\r.normal\(chips)!R_RES0805_50K!R3!.\pstchip.dat!!!!!!F19!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins2986@user.\r.normal\(chips)!R_RES0805_50K!R5!.\pstchip.dat!!!!!!F18!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins2078@user.\r.normal\(chips)!R_RES0805_50K!R2!.\pstchip.dat!!!!!!F17!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins3050@user.\r.normal\(chips)!R_RES0805_50K!R1!.\pstchip.dat!!!!!!F16!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins44847@user.\r.normal\(chips)!R_RES0805_50K!R7!.\pstchip.dat!!!!!!F15!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins44895@user.\r.normal\(chips)!R_RES0805_50K!R8!.\pstchip.dat!!!!!!F14!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins45265@user.\r.normal\(chips)!R_RES0805_50K!R9!.\pstchip.dat!!!!!!F13!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins45281@user.\r.normal\(chips)!R_RES0805_50K!R6!.\pstchip.dat!!!!!!F12!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins4367@user.\lm324.normal\(chips)!LM324_SOIC-14_LM324!U3!.\pstchip.dat!!!!!!F3!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins44989@user.\lm324.normal\(chips)!LM324_SOIC-14_LM324!U4!.\pstchip.dat!!!!!!F2!!!!!!!
+S!@fpmemory.fpmemory(sch_1):ins55953@user.\tps70933.normal\(chips)!TPS70933_SOT-23_TPS70933!U2!.\pstchip.dat!!!!!!F0!!!!!!!

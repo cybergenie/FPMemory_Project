@@ -1,0 +1,43 @@
+\t (00:07:10) allegro 17.2 S045 Windows SPB 64-bit Edition
+\t (00:07:10)     Journal start - Sat Oct 20 21:41:50 2018
+\t (00:07:10)         Host=LEE-PC User=Lee Pid=14788 CPUs=4
+\t (00:07:10) CmdLine= d:\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe E:\Project\FPMemory\ElectronicDesign\PCB\lib\SIP-2S.dra
+\t (00:07:10) 
+\d (00:07:10) Design opened: E:/Project/FPMemory/ElectronicDesign/PCB/FPMemory.brd
+\i (00:07:11) generaledit 
+\i (00:07:11) zoom in 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom in -642.16 -260.65
+\i (00:07:11) trapsize 515
+\i (00:07:11) zoom in 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom in -642.16 -260.65
+\i (00:07:11) trapsize 258
+\i (00:07:12) zoom out 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom out -539.14 -213.25
+\i (00:07:12) trapsize 515
+\i (00:07:12) zoom out 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom out -538.10 -213.26
+\i (00:07:12) trapsize 1030
+\i (00:07:19) zoom in 1 
+\i (00:07:19) setwindow pcb
+\i (00:07:19) zoom in -591.67 330.70
+\i (00:07:19) trapsize 515
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out -511.31 258.59
+\i (00:07:20) trapsize 1030
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out -507.19 252.40
+\t (00:07:20) Grids are drawn 20.00, 20.00 apart for enhanced viewability.
+\i (00:07:20) trapsize 2060
+\i (00:07:22) open 
+\i (00:07:28) fillin "E:\Project\FPMemory\ElectronicDesign\PCB\output\FPMemory.brd"
+\i (00:07:28) cd "E:\Project\FPMemory\ElectronicDesign\PCB\output"
+\t (00:07:28) Opening existing design...
+\t (00:07:28) Grids are drawn 10.00, 10.00 apart for enhanced viewability.
+\i (00:07:28) trapsize 1035
+\t (00:07:28)     Journal end - Sat Oct 20 21:42:08 2018

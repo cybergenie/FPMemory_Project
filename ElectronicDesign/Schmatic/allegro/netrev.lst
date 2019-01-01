@@ -1,0 +1,93 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : FPMemory.brd                                  )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Sat Oct 20 02:28:12 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\PROJECT\FPMEMORY\ELECTRONICDESIGN\SCHMATIC\allegro'
+Design Directory:            'E:/Project/FPMemory/ElectronicDesign/Schmatic/allegro'
+Old design name:             'E:/Project/FPMemory/ElectronicDesign/PCB/FPMemory.brd'
+New design name:             'E:/Project/FPMemory/ElectronicDesign/Schmatic/allegro/FPMEMORY.brd'
+
+CmdLine: netrev.exe -y 1 -i E:\PROJECT\FPMEMORY\ELECTRONICDESIGN\SCHMATIC\allegro E:\Project\FPMemory\ElectronicDesign\PCB\FPMemory.brd E:\Project\FPMemory\ElectronicDesign\Schmatic\allegro\FPMEMORY.brd
+
+------ Preparing to read pst files ------
+
+Starting to read E:/PROJECT/FPMEMORY/ELECTRONICDESIGN/SCHMATIC/allegro/pstchip.dat 
+   Finished reading E:/PROJECT/FPMEMORY/ELECTRONICDESIGN/SCHMATIC/allegro/pstchip.dat (00:00:00.04)
+Starting to read E:/PROJECT/FPMEMORY/ELECTRONICDESIGN/SCHMATIC/allegro/pstxprt.dat 
+   Finished reading E:/PROJECT/FPMEMORY/ELECTRONICDESIGN/SCHMATIC/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/PROJECT/FPMEMORY/ELECTRONICDESIGN/SCHMATIC/allegro/pstxnet.dat 
+   Finished reading E:/PROJECT/FPMEMORY/ELECTRONICDESIGN/SCHMATIC/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/Project/FPMemory/ElectronicDesign/PCB/lib 
+           E:/Project/FPMemory/ElectronicDesign/PCB/lib/padlib 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           D:/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/Project/FPMemory/ElectronicDesign/PCB/lib/padlib 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 20 2:28:12 2018
+   DESIGN NAME : 'FPMEMORY'
+   PACKAGING ON Jul 31 2018 12:22:04
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:35
+elapsed time  0:00:00
+

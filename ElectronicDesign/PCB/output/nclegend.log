@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : FPMemory_1.brd                                )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Sat Oct 20 23:09:39 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'd:/cadence/cadence_spb_17.2-2016/share/pcb/text/nclegend/default-mil.dlt' ...
+End of drill legend template file processing.
+
+Begin processing drill holes.
+Warning : Hole 30.00-0.00-C-M0-P-0.00-0.00-0.00-0.00- uses multiple drill figures.
+End processing drill holes.

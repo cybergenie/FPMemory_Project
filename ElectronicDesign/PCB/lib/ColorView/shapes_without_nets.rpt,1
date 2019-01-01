@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : FPMemory.brd                                  )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Fri Oct 05 15:11:01 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (-610.23 511.80)  Net: Dummy Net
+
+    Layer = BOTTOM
+	Point on shape: (-610.23 511.80)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.

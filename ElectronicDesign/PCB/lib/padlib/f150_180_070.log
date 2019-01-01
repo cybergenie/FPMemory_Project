@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : f150_180_070.dra                              )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Thu Oct 04 15:09:03 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: FLASH
+    Directory = E:/Project/FPMemory/PCB/lib/padlib
+    Name      = f150_180_070.fsm
+    User      = Lee
+    Machine   = LEE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,59 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    RENAME REFDES                                                    )
+(                                                                     )
+(    Drawing          : FPMemory.brd                                  )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Fri Oct 05 02:34:17 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Renaming components on BOTH_SIDES on entire BOARD
+    Extents: (-2000.00,-1500.00) (2000.00,1500.00)
+
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the RIGHT, from the top down.
+
+OLD S1    NEW S1
+OLD S2    NEW S2
+OLD S3    NEW S3
+OLD S4    NEW S4
+OLD U1    NEW U1
+OLD S5    NEW S5
+OLD S6    NEW S6
+OLD S7    NEW S7
+OLD S8    NEW S8
+OLD U2    NEW U2
+OLD J1    NEW J1
+Sequencing the reference designators SEQUENTIALLY
+Row processing direction : to the LEFT, from the top down.
+
+OLD R1    NEW R1
+OLD C1    NEW C1
+OLD C2    NEW C2
+OLD C3    NEW C3
+OLD R2    NEW R2
+OLD C4    NEW C4
+OLD C5    NEW C5
+OLD R3    NEW R3
+OLD C6    NEW C6
+Reference designator U1 already exists ... skipping to U2.
+Reference designator U2 already exists ... skipping to U3.
+OLD U3    NEW U3
+OLD C7    NEW C7
+OLD R4    NEW R4
+OLD R5    NEW R5
+OLD C8    NEW C8
+OLD C9    NEW C9
+OLD R6    NEW R6
+OLD C10    NEW C10
+OLD U4    NEW U4
+OLD C11    NEW C11
+OLD R7    NEW R7
+OLD R8    NEW R8
+OLD R9    NEW R9
+OLD C12    NEW C12
+OLD C13    NEW C13
+OLD C14    NEW C14
+OLD C15    NEW C15

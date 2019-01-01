@@ -1,0 +1,13 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "ETCH/WIRE"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_BOTTOM"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_TOP"
+color -vis "PACKAGE KEEPIN"
+color -vis "PIN/TOP"
+color -vis "PIN/BOTTOM"
+color -vis "ROUTE KEEPIN"
+color -vis "BOUNDARY/MULTI_USER_LOCK"

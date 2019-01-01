@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPMemoryScanner", "FPMemoryScanner\FPMemoryScanner.csproj", "{46B52379-67FD-4BD5-A015-C25B026EF741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPMemoryBLE", "FPMemoryBLE\FPMemoryBLE.csproj", "{497BFF5C-FCBA-478E-9B88-21B662A0DEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B52379-67FD-4BD5-A015-C25B026EF741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B52379-67FD-4BD5-A015-C25B026EF741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B52379-67FD-4BD5-A015-C25B026EF741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B52379-67FD-4BD5-A015-C25B026EF741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497BFF5C-FCBA-478E-9B88-21B662A0DEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497BFF5C-FCBA-478E-9B88-21B662A0DEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497BFF5C-FCBA-478E-9B88-21B662A0DEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497BFF5C-FCBA-478E-9B88-21B662A0DEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668A23F3-7263-4067-A234-BA73827EF1EC}
+	EndGlobalSection
+EndGlobal

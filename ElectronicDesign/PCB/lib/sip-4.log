@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SIP-4.dra                                     )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Fri Oct 05 16:30:49 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Project/FPMemory/PCB/lib
+    Name      = sip-4.psm
+    User      = Lee
+    Machine   = LEE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMake/bin/cmake.exe;-DSDKCONFIG=E:/Project/FPMemory/Code/hello_world/sdkconfig;-DIDF_PATH=E:/ProgramData/ESP32/esp-idf;-DSECURE_BOOT_SIGNING_KEY=E:/Project/FPMemory/Code/hello_world;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

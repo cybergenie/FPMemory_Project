@@ -1,0 +1,180 @@
+\t (01:31:49) allegro 17.2 S045 Windows SPB 64-bit Edition
+\t (01:31:49)     Journal start - Thu Oct 04 15:03:56 2018
+\t (01:31:49)         Host=LEE-PC User=Lee Pid=9336 CPUs=4
+\t (01:31:49) CmdLine= D:\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (01:31:49) 
+\t (01:31:49) Starting new design...
+\i (01:31:49) trapsize 648
+\i (01:31:49) trapsize 678
+\i (01:31:49) trapsize 648
+\i (01:31:49) trapsize 648
+\i (01:31:49) trapsize 648
+\i (01:31:49) trapsize 678
+\i (01:31:49) generaledit 
+\i (01:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup "Design Parameters"
+\i (01:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup "Design Parameters"
+\i (01:31:54) prmed 
+\i (01:32:06) setwindow form.prmedit
+\i (01:32:06) FORM prmedit width 4.0000 
+\i (01:32:07) FORM prmedit height 4.0000 
+\i (01:32:09) FORM prmedit y -2.0000 
+\i (01:32:12) FORM prmedit x -2.0000 
+\i (01:32:14) FORM prmedit done  
+\i (01:32:14) setwindow pcb
+\i (01:32:14) trapsize 386
+\i (01:32:14) trapsize 362
+\i (01:32:14) trapsize 386
+\i (01:32:14) trapsize 369
+\i (01:32:14) trapsize 386
+\i (01:32:14) generaledit 
+\i (01:32:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged Setup Grids
+\i (01:32:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked Setup Grids
+\i (01:32:15) define grid 
+\t (01:32:15) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (01:32:17) setwindow form.grid
+\i (01:32:17) FORM grid display YES 
+\i (01:32:22) FORM grid non_etch non_etch_x_grids 0.0254 
+\i (01:32:24) FORM grid non_etch non_etch_y_grids 0.0254 
+\i (01:32:24) FORM grid all_etch all_etch_x_grids 0.0254 
+\i (01:32:25) FORM grid all_etch all_etch_y_grids 0.0254 
+\i (01:32:26) FORM grid done  
+\t (01:32:26) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (01:32:49) setwindow pcb
+\i (01:32:49) zoom in 1 
+\i (01:32:49) setwindow pcb
+\i (01:32:49) zoom in 1.4749 -0.0077
+\i (01:32:49) trapsize 193
+\i (01:32:49) zoom in 1 
+\i (01:32:49) setwindow pcb
+\i (01:32:49) zoom in 0.6795 -0.0076
+\i (01:32:49) trapsize 97
+\i (01:32:49) zoom out 1 
+\i (01:32:49) setwindow pcb
+\i (01:32:49) zoom out 0.5155 -0.0269
+\i (01:32:49) trapsize 193
+\i (01:32:50) zoom in 1 
+\i (01:32:50) setwindow pcb
+\i (01:32:50) zoom in -0.0116 -0.0424
+\i (01:32:50) trapsize 97
+\i (01:32:50) zoom in 1 
+\i (01:32:50) setwindow pcb
+\i (01:32:50) zoom in -0.0116 -0.0424
+\i (01:32:50) trapsize 48
+\i (01:32:50) zoom in 1 
+\i (01:32:50) setwindow pcb
+\i (01:32:50) zoom in -0.0155 -0.0433
+\i (01:32:50) trapsize 24
+\i (01:32:51) zoom out 1 
+\i (01:32:51) setwindow pcb
+\i (01:32:51) zoom out -0.0131 -0.0433
+\i (01:32:51) trapsize 48
+\i (01:32:51) zoom out 1 
+\i (01:32:51) setwindow pcb
+\i (01:32:51) zoom out -0.0130 -0.0433
+\i (01:32:51) trapsize 97
+\i (01:32:58) add flash 
+   (01:32:58) Loading cmds.cxt 
+\i (01:33:03) setwindow form.thermflash
+\i (01:33:03) FORM thermflash cancel  
+\i (01:33:04) setwindow pcb
+\i (01:33:04) generaledit 
+\i (01:33:11) add flash 
+\i (01:33:41) setwindow form.thermflash
+\i (01:33:41) FORM thermflash indiam 1.5000 
+\i (01:33:45) FORM thermflash outdia 1.8000 
+\i (01:33:51) FORM thermflash spkwdth 0.7000 
+\i (01:35:53) FORM thermflash done  
+\i (01:35:53) setwindow pcb
+\i (01:35:53) generaledit 
+\i (01:35:54) zoom in 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom in -0.1154 0.0358
+\i (01:35:54) trapsize 48
+\i (01:35:54) zoom in 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom in -0.1154 0.0358
+\i (01:35:54) trapsize 24
+\i (01:35:54) zoom in 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom in -0.1153 0.0402
+\i (01:35:54) trapsize 12
+\i (01:35:54) zoom out 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom out -0.1149 0.0426
+\i (01:35:54) trapsize 24
+\i (01:35:54) zoom out 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom out -0.1148 0.0426
+\i (01:35:54) trapsize 48
+\i (01:35:54) zoom out 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom out -0.1148 0.0427
+\i (01:35:54) trapsize 97
+\i (01:35:55) zoom out 1 
+\i (01:35:55) setwindow pcb
+\i (01:35:55) zoom out -0.1147 0.0427
+\i (01:35:55) trapsize 193
+\i (01:35:55) zoom out 1 
+\i (01:35:55) setwindow pcb
+\i (01:35:55) zoom out -0.2047 0.0426
+\i (01:35:55) trapsize 386
+\i (01:35:55) zoom out 1 
+\i (01:35:55) setwindow pcb
+\i (01:35:55) zoom out -0.7182 0.3398
+\i (01:35:55) trapsize 386
+\i (01:35:55) zoom out 1 
+\i (01:35:55) setwindow pcb
+\i (01:35:55) zoom out -0.7182 0.3398
+\i (01:35:55) trapsize 386
+\i (01:35:55) zoom in 1 
+\i (01:35:55) setwindow pcb
+\i (01:35:55) zoom in -0.3243 0.5251
+\i (01:35:55) trapsize 193
+\i (01:35:55) zoom in 1 
+\i (01:35:55) setwindow pcb
+\i (01:35:55) zoom in -0.3243 0.5329
+\i (01:35:55) trapsize 97
+\i (01:35:58) zoom in 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom in -0.1544 0.8148
+\i (01:35:58) trapsize 48
+\i (01:35:58) zoom in 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom in -0.1544 0.8148
+\i (01:35:58) trapsize 24
+\i (01:35:58) zoom out 1 
+\i (01:35:59) setwindow pcb
+\i (01:35:59) zoom out -0.1385 0.7680
+\i (01:35:59) trapsize 48
+\i (01:35:59) zoom out 1 
+\i (01:35:59) setwindow pcb
+\i (01:35:59) zoom out -0.1384 0.7681
+\i (01:35:59) trapsize 97
+\i (01:36:18) zoom out 1 
+\i (01:36:18) setwindow pcb
+\i (01:36:18) zoom out -0.1462 0.7121
+\i (01:36:18) trapsize 193
+\i (01:36:18) zoom out 1 
+\i (01:36:18) setwindow pcb
+\i (01:36:18) zoom out -0.1385 0.6927
+\i (01:36:18) trapsize 386
+\t (01:36:38) Performing autosave...
+\t (01:36:38) Autosave successful
+\i (01:36:48) create symbol 
+\i (01:36:55) fillin "f150_180_070.fsm"
+\t (01:36:55) Creating flash symbol 'E:/Project/FPMemory/PCB/lib/padlib/f150_180_070.fsm'.
+\t (01:36:55) Starting Create symbol...
+\i (01:36:55) generaledit 
+\i (01:47:06) open 
+\e (01:47:06) Do you want to save the changes you made to f150_180_070.dra?
+\i (01:47:07) fillin no 
+\i (01:47:11) fillin "E:\Project\FPMemory\PCB\lib\IA-2.dra"
+\i (01:47:11) cd "E:\Project\FPMemory\PCB\lib"
+\t (01:47:11) Opening existing design...
+\t (01:47:11) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (01:47:11) trapsize 648
+\i (01:47:11) trapsize 678
+\i (01:47:11) trapsize 648
+\t (01:47:11) Grids are drawn 0.1016, 0.1016 apart for enhanced viewability.
+\i (01:47:11) trapsize 648
+\t (01:47:11)     Journal end - Thu Oct 04 15:19:19 2018

@@ -1,0 +1,55 @@
+Date and Time : 10/20/18 02:27:50
+
+--------------------------------------------------
+Checking Schematic: FPMemory
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO34  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,4OUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (5.50, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,3OUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (5.60, 6.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO27  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO33  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 2.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,2OUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (4.10, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO14  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 2.90) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,2OUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (4.20, 6.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,4OUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (5.60, 6.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO26  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 2.70) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO35  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 2.30) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,3OUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (5.50, 2.80) 
+WARNING(ORCAP-1829): Possible pin type conflict U3,IOUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (4.10, 2.20) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO32  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 2.40) 
+WARNING(ORCAP-1829): Possible pin type conflict U4,IOUT  Output Connected to Bidirectional
+                    FPMemory, FPMemory  (4.20, 6.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,IO12  Bidirectional Connected to Output
+                    FPMemory, FPMemory  (10.20, 3.00) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections
+
+--------------------------------------------------
+Checking Schematic: Burning
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Checking Off-Page Connections

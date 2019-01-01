@@ -1,0 +1,390 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Oct-20-2018 at 01:56:54 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='FPMEMORY';
+ POST_TIME='Jul 31 2018 12:22:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS23529@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins23529@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins23529@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS45221@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins45221@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins45221@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CAP0805_2.2UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS59922@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins59922@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins59922@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS45041@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins45041@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins45041@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS44923@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins44923@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins44923@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS45205@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins45205@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins45205@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS44947@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins44947@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins44947@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS23549@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins23549@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins23549@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS29788@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins29788@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins29788@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS23080@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins23080@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins23080@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CAP0805_10UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS29313@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins29313@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins29313@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS23302@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins23302@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins23302@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS29365@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins29365@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins29365@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CAP0805_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS22724@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins22724@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins22724@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CAP0805_1UF':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS56258@USER.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins56258@user.\cap np.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins56258@user.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'UART_SIP-6_UART':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS79511@USER.UART.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins79511@user.\uart.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins79511@user.\uart.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_SIP-2S_CON2':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS88363@USER.CON2.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins88363@user.\con2.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins88363@user.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS3050@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins3050@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins3050@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS2078@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins2078@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins2078@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS1312@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins1312@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins1312@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS29758@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins29758@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins29758@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS2986@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins2986@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins2986@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS45281@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins45281@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins45281@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS44847@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins44847@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins44847@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS44895@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins44895@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins44895@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES0805_50K':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS45265@USER.R.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins45265@user.\r.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins45265@user.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS783@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins783@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins783@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S2 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS44771@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins44771@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins44771@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S3 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS4606@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins4606@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins4606@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S4 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS44795@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins44795@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins44795@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S5 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS2593@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins2593@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins2593@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S6 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS45241@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins45241@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins45241@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S7 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS4571@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins4571@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins4571@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S8 'IMS-C20B_SIP-2_IMS-C20B':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS45297@USER.IMS-C20B.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins45297@user.\ims-c20b.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins45297@user.\ims-c20b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ESP32_SMD-38_ESP32':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS498@USER.ESP32.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins498@user.\esp32.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins498@user.\esp32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TPS70933_SOT-23_TPS70933':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS55953@USER.TPS70933.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins55953@user.\tps70933.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins55953@user.\tps70933.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'LM324_SOIC-14_LM324':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS4367@USER.LM324.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins4367@user.\lm324.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins4367@user.\lm324.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM324_SOIC-14_LM324':;
+
+SECTION_NUMBER 1
+ '@FPMEMORY.FPMEMORY(SCH_1):INS44989@USER.LM324.NORMAL(CHIPS)':
+ C_PATH='@fpmemory.fpmemory(sch_1):ins44989@user.\lm324.normal\(chips)',
+ P_PATH='@fpmemory.fpmemory(sch_1):page1_ins44989@user.\lm324.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

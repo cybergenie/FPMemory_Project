@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DIP-2.dra                                     )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Thu Oct 04 15:49:31 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Project/FPMemory/PCB/lib
+    Name      = dip-2.psm
+    User      = Lee
+    Machine   = LEE-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,24 @@
+A!NET_NAME!NET_LOGICAL_PATH!NET_VOLTAGE!
+J!E:/Project/FPMemory/ElectronicDesign/PCB/output/FPMemory.brd!Mon Oct 08 21:58:35 2018!-2000.00!-4500.00!6000.00!1500.00!0.01!mils!FPMEMORY!33.900000 mil!2!UP TO DATE!
+S!N02072!@fpmemory.fpmemory(sch_1):n02072!!
+S!ADC1_CH4!@fpmemory.fpmemory(sch_1):adc1_ch4!!
+S!ADC2_CH5!@fpmemory.fpmemory(sch_1):adc2_ch5!!
+S!GND!@fpmemory.fpmemory(sch_1):gnd!!
+S!RXD!@fpmemory.fpmemory(sch_1):rxd!!
+S!TXD!@fpmemory.fpmemory(sch_1):txd!!
+S!N44841!@fpmemory.fpmemory(sch_1):n44841!!
+S!N01133!@fpmemory.fpmemory(sch_1):n01133!!
+S!VDD33!@fpmemory.fpmemory(sch_1):vdd33!!
+S!VCC!@fpmemory.fpmemory(sch_1):vcc!!
+S!N05883!@fpmemory.fpmemory(sch_1):n05883!!
+S!ADC2_CH9!@fpmemory.fpmemory(sch_1):adc2_ch9!!
+S!ADC2_CH7!@fpmemory.fpmemory(sch_1):adc2_ch7!!
+S!ADC2_CH6!@fpmemory.fpmemory(sch_1):adc2_ch6!!
+S!N45143!@fpmemory.fpmemory(sch_1):n45143!!
+S!N45127!@fpmemory.fpmemory(sch_1):n45127!!
+S!ADC1_CH6!@fpmemory.fpmemory(sch_1):adc1_ch6!!
+S!N44913!@fpmemory.fpmemory(sch_1):n44913!!
+S!ADC1_CH5!@fpmemory.fpmemory(sch_1):adc1_ch5!!
+S!ADC1_CH7!@fpmemory.fpmemory(sch_1):adc1_ch7!!
+S!N03024!@fpmemory.fpmemory(sch_1):n03024!!
+S!N02980!@fpmemory.fpmemory(sch_1):n02980!!

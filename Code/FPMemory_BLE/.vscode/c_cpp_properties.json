@@ -1,0 +1,42 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:/ProgramData/ESP32/esp-idf/components/driver/include",
+                "E:/ProgramData/ESP32/esp-idf/components/driver/include",
+                "E:/ProgramData/msys32/opt/xtensa-esp32-elf/xtensa-esp32-elf/include",
+                "E:/ProgramData/ESP32/esp-idf/components/freertos/include",
+                "E:/ProgramData/ESP32/esp-idf/components/esp32/include",
+                "E:/ProgramData/ESP32/esp-idf/components/esp_adc_cal/include",
+                "E:/ProgramData/ESP32/esp-idf/components/log/include",
+                "E:/ProgramData/ESP32/esp-idf/components/bt/include",
+                "E:/ProgramData/ESP32/esp-idf/components/nvs_flash/include",
+                "E:/ProgramData/ESP32/esp-idf/components/bt/bluedroid/api/include/api",
+                "E:/ProgramData/msys32/opt/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                "E:/ProgramData/ESP32/esp-idf/components/soc/esp32/include",
+                "E:/ProgramData/ESP32/esp-idf/components/heap/include",
+                "E:/ProgramData/ESP32/esp-idf/components/soc/include",
+                "E:/ProgramData/ESP32/msys32/opt/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                "E:/ProgramData/ESP32/esp-idf/components/newlib/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "${workspaceRoot}",
+                    "E:\\ProgramData\\ESP32\\esp-idf\\components",
+                    "E:\\ProgramData\\ESP32\\msys32\\opt\\xtensa-esp32-elf"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SIP-4.dra                                     )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Fri Oct 05 16:30:43 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Oct 05 16:30:43 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'E:/Project/FPMemory/PCB/lib/SIP-4.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/cadence_spb_17.2-2016/share/local/pcb/symbols 
+           d:/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           d:/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/Project/FPMemory/PCB/lib/padlib 
+           E:/Project/FPMemory/PCB/lib 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/cadence_spb_17.2-2016/share/local/pcb/padstacks 
+           d:/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
+           d:/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/Project/FPMemory/PCB/lib 
+           E:/Project/FPMemory/PCB/lib/padlib 
+
+
+------ Pad Stack Refresh Messages ------
+
+'THP180_100C'  pad stack refresh starting.
+
+     'THP180_100C'  pad stack refreshed successfully.
+     
+'THP180_100R'  pad stack refresh starting.
+
+     'THP180_100R'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
